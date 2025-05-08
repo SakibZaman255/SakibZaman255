@@ -1,7 +1,8 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakib+Zaman!;Full-Stack+Web+Developer;Next.js+%7C+PostgreSQL+%7C+Prisma;Let's+collaborate+and+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakib+Zaman!;Full-Stack+Web+Developer;Next.js+%7C+PostgreSQL+%7C+Prisma;Let's+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 
 ---
