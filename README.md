@@ -10,7 +10,7 @@
 🚀 I'm a **Full-Stack Developer** passionate about building **modern, scalable, and elegant web applications**.
 
 🛠️ Tech I love using:
-- **Frameworks**: Next.js, React.js, Laravel
+- **Frameworks**: Next.js, React.js
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **ORMs**: Prisma, Mongoose
 - **Authentication**: NextAuth, JWT
@@ -67,5 +67,7 @@ I'm open to freelance work, collaborations, and exciting full-stack challenges. 
 
 ---
 
-<!-- Snake animation (optional) -->
-![snake gif](https://github.com/sakibzaman255/sakibzaman255/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake animation (optional but now properly linked) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sakibzaman255/sakibzaman255/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
