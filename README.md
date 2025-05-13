@@ -38,7 +38,15 @@
 - **Figma**, **Responsive Design**
 
 ### ⚙️ Tools & Platforms
-- **Vercel**, **Stripe**, **Postman**, **Git**, **GitHub**
+- **Vercel**, **Railway**, **Stripe**, **Postman**, **Git**, **GitHub**
+
+---
+
+### 🧩 Visual Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,postgresql,mysql,mongodb,prisma,tailwind,figma,github,vercel,postman&perline=8" alt="Tech Stack Icons" />
+</p>
 
 ---
 
