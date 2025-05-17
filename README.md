@@ -14,6 +14,7 @@
   </a>
 </div>
 <br />
+<br />
 🚀 About Me
 javascriptconst sakib = {
   role: "Full-Stack Web Developer",
@@ -25,7 +26,16 @@ javascriptconst sakib = {
     "On-Screen Evaluation System"
   ]
 };
-I transform complex ideas into elegant digital solutions. With expertise in modern JavaScript frameworks and database technologies, I build complete applications from sleek UI to robust backend systems.
+👋 Hello! I'm Sakib Zaman, a passionate Full-Stack Web Developer focused on delivering fast, accessible, and scalable web solutions.
+🔧 With strong fundamentals in JavaScript and real-world experience in Next.js, PostgreSQL, Prisma, and modern UI libraries, I enjoy building complete web applications — from database schema to sleek UI.
+🧠 What I Do:
+
+Transform ideas into full-stack applications
+Build scalable APIs and database models
+Integrate third-party services (Stripe, OpenAI, etc.)
+Collaborate in agile teams using Git & GitHub
+
+<br />
 <br />
 💻 Tech Stack
 <div align="center">
@@ -40,6 +50,27 @@ I transform complex ideas into elegant digital solutions. With expertise in mode
   <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
 </div>
+<br />
+🔷 Languages & Frameworks
+
+JavaScript, TypeScript
+Next.js, React.js
+Node.js, Express.js
+
+🗄️ Databases & ORMs
+
+PostgreSQL, MySQL, MongoDB
+Prisma, Mongoose
+
+🔐 Auth & APIs
+
+NextAuth.js, JWT, REST APIs
+
+🎨 UI/UX & Styling
+
+Tailwind CSS, Shadcn UI, Headless UI
+Figma, Responsive Design
+
 <details>
   <summary>🔍 More Skills</summary>
   <br>
@@ -54,91 +85,61 @@ I transform complex ideas into elegant digital solutions. With expertise in mode
   </div>
 </details>
 <br />
-🔥 Featured Projects
+🧩 Visual Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,postgresql,mysql,mongodb,prisma,tailwind,figma,github,vercel,postman&perline=8" alt="Tech Stack Icons" />
+</p>
+<br />
+<br />
+🔧 Currently Building
+<br />
+
+🧾 Smart Document Review Platform
+
+AI-powered legal contract analysis with version control, real-time collaboration, and Stripe-based subscriptions.
+
+
+🎓 Learning Management System (LMS)
+
+Multi-role dashboards for admin, teacher, student & operator — includes assessments, course management, and messaging.
+
+
+📝 On-Screen Evaluation System
+
+Enables teachers to evaluate exam scripts digitally with intuitive annotation tools, batch assignment, and real-time saving.
+
+
+
+<br />
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧾 Smart Document Review</h3>
-        <div align="center">
-          <a href="https://github.com/sakibzaman255/smart-doc-review" target="_blank">
-            <img src="https://via.placeholder.com/500x300?text=Smart+Document+Review" width="100%" alt="Smart Document Review"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/sakibzaman255/smart-doc-review" target="_blank">
-              <img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64F0D9" alt="GitHub Code"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-0D1117?style=for-the-badge&logo=vercel&logoColor=64F0D9" alt="Live Preview"/>
-            </a>
-          </p>
-          <p><strong>Next.js, OpenAI, Prisma, Stripe, PDF.js</strong> - AI-powered contract analysis platform with annotation tools and subscription billing.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎓 LMS Web App</h3>
-        <div align="center">
-          <a href="https://github.com/sakibzaman255/lms-system" target="_blank">
-            <img src="https://via.placeholder.com/500x300?text=LMS+Web+App" width="100%" alt="LMS Web App"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/sakibzaman255/lms-system" target="_blank">
-              <img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64F0D9" alt="GitHub Code"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-0D1117?style=for-the-badge&logo=vercel&logoColor=64F0D9" alt="Live Preview"/>
-            </a>
-          </p>
-          <p><strong>Next.js, PostgreSQL, Prisma, NextAuth, JWT</strong> - Multi-role learning platform with messaging, authentication & assessment features.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📝 On-Screen Evaluation</h3>
-        <div align="center">
-          <a href="https://github.com/sakibzaman255/evaluation-system" target="_blank">
-            <img src="https://via.placeholder.com/500x300?text=On-Screen+Evaluation" width="100%" alt="On-Screen Evaluation"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/sakibzaman255/evaluation-system" target="_blank">
-              <img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=64F0D9" alt="GitHub Code"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-0D1117?style=for-the-badge&logo=vercel&logoColor=64F0D9" alt="Live Preview"/>
-            </a>
-          </p>
-          <p><strong>Next.js, Tailwind CSS, JWT, Prisma</strong> - Digital exam paper marking system with real-time annotation tools for educators.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📊 GitHub Stats</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=sakibzaman255&show_icons=true&hide=&count_private=true&title_color=64F0D9&text_color=ffffff&icon_color=64F0D9&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="100%"/>
-          <br>
-          <br>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibzaman255&stroke=ffffff&background=0D1117&ring=64F0D9&fire=64F0D9&currStreakNum=ffffff&currStreakLabel=64F0D9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="100%"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img width="80%" src="https://progress-bar.dev/80?title=Smart%20Doc%20Review&width=500&color=64F0D9" alt="Smart Doc Review: 80% Complete" />
+  <br /><br />
+  <img width="80%" src="https://progress-bar.dev/65?title=LMS%20Platform&width=500&color=64F0D9" alt="LMS Platform: 65% Complete" />
+  <br /><br />
+  <img width="80%" src="https://progress-bar.dev/90?title=Evaluation%20System&width=500&color=64F0D9" alt="Evaluation System: 90% Complete" />
 </div>
 <br />
-🌱 What I'm Building Now
-<div align="center">
-  <img width="100%" src="https://progress-bar.dev/80?title=Smart%20Doc%20Review&width=500&color=64F0D9" alt="Smart Doc Review: 80% Complete" />
-  <img width="100%" src="https://progress-bar.dev/65?title=LMS%20Platform&width=500&color=64F0D9" alt="LMS Platform: 65% Complete" />
-  <img width="100%" src="https://progress-bar.dev/90?title=Evaluation%20System&width=500&color=64F0D9" alt="Evaluation System: 90% Complete" />
-</div>
+<br />
+🔥 Featured Projects
+<br />
+ProjectDescriptionTech Stack🧾 Smart Doc ReviewUpload & annotate contracts using OpenAI-powered analysisNext.js, OpenAI, Prisma, Stripe, PDF.js🎓 LMS Web AppRole-based LMS with messaging, authentication & assessmentsNext.js, PostgreSQL, Prisma, NextAuth, JWT📝 On-Screen EvaluationReal-time exam paper marking UI for teachersNext.js, Tailwind CSS, JWT, Prisma
+<br />
+<br />
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibzaman255&show_icons=true&hide=&count_private=true&title_color=64F0D9&text_color=ffffff&icon_color=64F0D9&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibzaman255&stroke=ffffff&background=0D1117&ring=64F0D9&fire=64F0D9&currStreakNum=ffffff&currStreakLabel=64F0D9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+<br />
 <br />
 📫 Let's Connect & Collaborate!
 I'm available for freelance projects, open-source collaboration, and full-time opportunities. I specialize in building full-stack applications that solve real-world problems with clean, maintainable code.
+
+I love solving real-world problems and helping startups & teams bring ideas to life.
+Feel free to reach out and let's build something amazing! ⚡
+
 <div align="center">
   <a href="mailto:sakibzaman255@gmail.com">
     <img src="https://img.shields.io/badge/Send%20me%20an%20email-0D1117?style=for-the-badge&logo=gmail&logoColor=64F0D9" alt="Email" />
