@@ -59,12 +59,6 @@ Collaborate in agile teams using Git & GitHub
 </div>
 <br />
 <br />
-🧩 Visual Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,postgresql,mysql,mongodb,prisma,tailwind,figma,github,vercel,postman&perline=6" width="70%" alt="Tech Stack Icons" />
-</p>
-<br />
-<br />
 🔧 Currently Building
 <br />
 🧾 Smart Document Review Platform
