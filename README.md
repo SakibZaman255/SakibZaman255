@@ -16,7 +16,8 @@
 <br />
 <br />
 🚀 About Me
-javascriptconst sakib = {
+```javascript
+const sakib = {
   role: "Full-Stack Web Developer",
   focus: ["Fast", "Accessible", "Scalable"],
   loves: ["Clean Code", "Problem Solving", "Learning New Tech"],
@@ -26,90 +27,52 @@ javascriptconst sakib = {
     "On-Screen Evaluation System"
   ]
 };
+```
 👋 Hello! I'm Sakib Zaman, a passionate Full-Stack Web Developer focused on delivering fast, accessible, and scalable web solutions.
 🔧 With strong fundamentals in JavaScript and real-world experience in Next.js, PostgreSQL, Prisma, and modern UI libraries, I enjoy building complete web applications — from database schema to sleek UI.
 🧠 What I Do:
-
 Transform ideas into full-stack applications
 Build scalable APIs and database models
 Integrate third-party services (Stripe, OpenAI, etc.)
 Collaborate in agile teams using Git & GitHub
-
 <br />
 <br />
 💻 Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" width="130"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="130"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" width="130"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F" alt="Node.js" width="130"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL" width="130"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" width="130"/>
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" width="130"/>
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind" width="130"/>
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="Express" width="130"/>
+  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" width="130"/>
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="130"/>
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" width="130"/>
+  <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=008CDD" alt="Stripe" width="130"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" width="130"/>
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" width="130"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="130"/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" width="130"/>
 </div>
 <br />
-🔷 Languages & Frameworks
-
-JavaScript, TypeScript
-Next.js, React.js
-Node.js, Express.js
-
-🗄️ Databases & ORMs
-
-PostgreSQL, MySQL, MongoDB
-Prisma, Mongoose
-
-🔐 Auth & APIs
-
-NextAuth.js, JWT, REST APIs
-
-🎨 UI/UX & Styling
-
-Tailwind CSS, Shadcn UI, Headless UI
-Figma, Responsive Design
-
-<details>
-  <summary>🔍 More Skills</summary>
-  <br>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=008CDD" alt="Stripe"/>
-    <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-    <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
-    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Shadcn_UI-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
-  </div>
-</details>
 <br />
 🧩 Visual Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,postgresql,mysql,mongodb,prisma,tailwind,figma,github,vercel,postman&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,postgresql,mysql,mongodb,prisma,tailwind,figma,github,vercel,postman&perline=6" width="70%" alt="Tech Stack Icons" />
 </p>
 <br />
 <br />
 🔧 Currently Building
 <br />
-
 🧾 Smart Document Review Platform
-
 AI-powered legal contract analysis with version control, real-time collaboration, and Stripe-based subscriptions.
-
-
 🎓 Learning Management System (LMS)
-
 Multi-role dashboards for admin, teacher, student & operator — includes assessments, course management, and messaging.
-
-
 📝 On-Screen Evaluation System
-
 Enables teachers to evaluate exam scripts digitally with intuitive annotation tools, batch assignment, and real-time saving.
-
-
-
 <br />
 <div align="center">
   <img width="80%" src="https://progress-bar.dev/80?title=Smart%20Doc%20Review&width=500&color=64F0D9" alt="Smart Doc Review: 80% Complete" />
@@ -136,10 +99,8 @@ ProjectDescriptionTech Stack🧾 Smart Doc ReviewUpload & annotate contracts usi
 <br />
 📫 Let's Connect & Collaborate!
 I'm available for freelance projects, open-source collaboration, and full-time opportunities. I specialize in building full-stack applications that solve real-world problems with clean, maintainable code.
-
 I love solving real-world problems and helping startups & teams bring ideas to life.
 Feel free to reach out and let's build something amazing! ⚡
-
 <div align="center">
   <a href="mailto:sakibzaman255@gmail.com">
     <img src="https://img.shields.io/badge/Send%20me%20an%20email-0D1117?style=for-the-badge&logo=gmail&logoColor=64F0D9" alt="Email" />
