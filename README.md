@@ -16,20 +16,10 @@
 <br />
 <br />
 🚀 About Me
-```javascript
-const sakib = {
-  role: "Full-Stack Web Developer",
-  focus: ["Fast", "Accessible", "Scalable"],
-  loves: ["Clean Code", "Problem Solving", "Learning New Tech"],
-  currentlyBuilding: [
-    "Smart Document Review Platform", 
-    "Learning Management System", 
-    "On-Screen Evaluation System"
-  ]
-};
-```
+<br/>
 👋 Hello! I'm Sakib Zaman, a passionate Full-Stack Web Developer focused on delivering fast, accessible, and scalable web solutions.
 🔧 With strong fundamentals in JavaScript and real-world experience in Next.js, PostgreSQL, Prisma, and modern UI libraries, I enjoy building complete web applications — from database schema to sleek UI.
+<br/>
 🧠 What I Do:
 Transform ideas into full-stack applications
 Build scalable APIs and database models
