@@ -16,10 +16,12 @@
 <br />
 <br />
 🚀 About Me
-<br/>
+<br />
+<br />
 👋 Hello! I'm Sakib Zaman, a passionate Full-Stack Web Developer focused on delivering fast, accessible, and scalable web solutions.
 🔧 With strong fundamentals in JavaScript and real-world experience in Next.js, PostgreSQL, Prisma, and modern UI libraries, I enjoy building complete web applications — from database schema to sleek UI.
-<br/>
+<br />
+<br />
 🧠 What I Do:
 Transform ideas into full-stack applications
 Build scalable APIs and database models
