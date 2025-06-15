@@ -21,14 +21,6 @@
 🔧 With strong fundamentals in JavaScript and real-world experience in Next.js, PostgreSQL, Prisma, and modern UI libraries, I enjoy building complete web applications — from database schema to sleek UI.
 <br />
 <br />
-🧠 What I Do:
-<br />
-Transform ideas into full-stack applications
-Build scalable APIs and database models
-Integrate third-party services (Stripe, OpenAI, etc.)
-Collaborate in agile teams using Git & GitHub
-<br />
-<br />
 💻 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" width="130"/>
@@ -43,7 +35,6 @@ Collaborate in agile teams using Git & GitHub
   <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" width="130"/>
   <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="130"/>
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" width="130"/>
-  <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=008CDD" alt="Stripe" width="130"/>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" width="130"/>
   <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" width="130"/>
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="130"/>
@@ -54,24 +45,17 @@ Collaborate in agile teams using Git & GitHub
 🔧 Currently Building
 <br />
 🧾 Smart Document Review Platform
+<br/>
 AI-powered legal contract analysis with version control, real-time collaboration, and Stripe-based subscriptions.
+<br/>
 🎓 Learning Management System (LMS)
+<br/>
 Multi-role dashboards for admin, teacher, student & operator — includes assessments, course management, and messaging.
+<br/>
 📝 On-Screen Evaluation System
+<br/>
 Enables teachers to evaluate exam scripts digitally with intuitive annotation tools, batch assignment, and real-time saving.
 <br />
-<div align="center">
-  <img width="80%" src="https://progress-bar.dev/80?title=Smart%20Doc%20Review&width=500&color=64F0D9" alt="Smart Doc Review: 80% Complete" />
-  <br /><br />
-  <img width="80%" src="https://progress-bar.dev/65?title=LMS%20Platform&width=500&color=64F0D9" alt="LMS Platform: 65% Complete" />
-  <br /><br />
-  <img width="80%" src="https://progress-bar.dev/90?title=Evaluation%20System&width=500&color=64F0D9" alt="Evaluation System: 90% Complete" />
-</div>
-<br />
-<br />
-🔥 Featured Projects
-<br />
-ProjectDescriptionTech Stack🧾 Smart Doc ReviewUpload & annotate contracts using OpenAI-powered analysisNext.js, OpenAI, Prisma, Stripe, PDF.js🎓 LMS Web AppRole-based LMS with messaging, authentication & assessmentsNext.js, PostgreSQL, Prisma, NextAuth, JWT📝 On-Screen EvaluationReal-time exam paper marking UI for teachersNext.js, Tailwind CSS, JWT, Prisma
 <br />
 <br />
 📊 GitHub Stats
