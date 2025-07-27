@@ -3,15 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=64F0D9&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%7C+PostgreSQL+%7C+Prisma;Building+Digital+Experiences;Let's+create+something+amazing!" alt="Sakib Zaman - Full-Stack Developer" />
 </div>
 <div align="center">
-  <a href="mailto:sakibzaman255@gmail.com">
+<!--   <a href="mailto:sakibzaman255@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=64F0D9" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sakibzaman255/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=64F0D9" alt="LinkedIn" />
-  </a>
-  <a href="https://yourportfolio.com">
+  </a> -->
+<!--   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=64F0D9" alt="Portfolio" />
-  </a>
+  </a> -->
 </div>
 <br />
 <br />
