@@ -22,28 +22,31 @@
 
 ## 🙋‍♂️ About Me
 
-```typescript
-const sakib = {
-    role: "Full-Stack Web Developer",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    code: ["JavaScript", "TypeScript", "SQL"],
-    askMeAbout: ["Web Dev", "API Design", "Database Architecture", "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["Next.js", "React", "TypeScript"],
-            css: ["Tailwind CSS", "Shadcn UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            databases: ["PostgreSQL", "MongoDB", "MySQL"],
-            orm: ["Prisma"]
-        },
-        tools: ["Git", "Postman", "Figma", "Vercel"]
-    },
-    currentFocus: "Building production-ready full-stack applications",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+**Hi, I'm Sakib Zaman** — a passionate **Full-Stack Web Developer** based in **Dhaka, Bangladesh** 🇧🇩
+
+I specialize in building **scalable, production-ready web applications** using modern technologies like **Next.js, React, TypeScript, and PostgreSQL**. With a strong focus on clean code and user experience, I transform complex business requirements into elegant digital solutions.
+
+### What I Bring to Your Team:
+
+- ✨ **2+ years** of hands-on experience in full-stack development
+- 🚀 Expertise in building **fast, responsive, and SEO-optimized** web applications
+- 💼 Strong background in **API design, database architecture**, and **cloud deployment**
+- 🎯 Proven track record of delivering projects **on time** with **high-quality standards**
+- 🤝 Excellent **communication skills** and collaborative mindset
+- 📚 Continuous learner, always staying updated with the latest industry trends
+
+### Currently Working On:
+
+- AI-powered document review systems with real-time collaboration
+- Enterprise learning management platforms
+- Digital evaluation systems for educational institutions
+
+**I'm passionate about solving real-world problems through code and always eager to take on new challenges. Whether you're looking for a dedicated team member or a reliable freelancer, I'm ready to contribute to your success!**
+
+---
+
+**💻 Tech Stack:** Next.js • React • TypeScript • Node.js • PostgreSQL • Prisma • MongoDB  
+**📧 Let's Connect:** [sakibzaman255@gmail.com](mailto:sakibzaman255@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakibzaman255/)
 
 <br />
 
