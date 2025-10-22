@@ -43,10 +43,6 @@ I specialize in building **scalable, production-ready web applications** using m
 
 **I'm passionate about solving real-world problems through code and always eager to take on new challenges. Whether you're looking for a dedicated team member or a reliable freelancer, I'm ready to contribute to your success!**
 
----
-
-**💻 Tech Stack:** Next.js • React • TypeScript • Node.js • PostgreSQL • Prisma • MongoDB  
-**📧 Let's Connect:** [sakibzaman255@gmail.com](mailto:sakibzaman255@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sakibzaman255/)
 
 <br />
 
