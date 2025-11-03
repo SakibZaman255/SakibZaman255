@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SAKIB%20ZAMAN&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=200&section=header&text=SAKIB%20ZAMAN&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=64F0D9&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+MongoDB;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Let's+Build+Something+Amazing!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+MongoDB;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Let's+Build+Something+Amazing!" alt="Typing Animation" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="mailto:sakibzaman255@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-sakibzaman255@gmail.com-0D1117?style=for-the-badge&logoColor=64F0D9" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email-sakibzaman255@gmail.com-0D1117?style=for-the-badge&logoColor=D97757" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sakibzaman255/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sakibzaman255&style=for-the-badge&color=64F0D9&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sakibzaman255&style=for-the-badge&color=D97757&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <br />
@@ -105,13 +105,13 @@ I specialize in building **scalable, production-ready web applications** using m
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakibzaman255&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64F0D9&icon_color=64F0D9&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibzaman255&theme=tokyonight&hide_border=true&background=0D1117&stroke=64F0D9&ring=64F0D9&fire=64F0D9&currStreakLabel=64F0D9&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakibzaman255&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D97757&icon_color=D97757&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibzaman255&theme=dark&hide_border=true&background=0D1117&stroke=D97757&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibzaman255&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64F0D9&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakibzaman255&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64F0D9&line=64F0D9&point=ffffff" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibzaman255&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D97757&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakibzaman255&theme=github-compact&hide_border=true&bg_color=0D1117&color=D97757&line=D97757&point=ffffff" alt="Contribution Graph" />
 </div>
 
 <br />
@@ -119,7 +119,7 @@ I specialize in building **scalable, production-ready web applications** using m
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakibzaman255&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sakibzaman255&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -142,7 +142,7 @@ I specialize in building **scalable, production-ready web applications** using m
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibzaman255&bg_color=0D1117&color=64F0D9&line=64F0D9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibzaman255&bg_color=0D1117&color=D97757&line=D97757&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
 </div>
 
 <br />
@@ -150,7 +150,7 @@ I specialize in building **scalable, production-ready web applications** using m
 ## 💡 Fun Fact
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House" alt="Quote" />
 </div>
 
 <br />
