@@ -80,25 +80,36 @@ I specialize in building **scalable, production-ready web applications** using m
 
 ## 🚀 Current Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🧾 Smart Document Review</h3>
-      <p><i>AI-powered legal contract analysis</i></p>
-      <p>• Version Control<br/>• Real-time Collaboration<br/>• Stripe Integration</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎓 Learning Management System</h3>
-      <p><i>Complete educational platform</i></p>
-      <p>• Multi-role Dashboards<br/>• Course Management<br/>• Assessment Tools</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📝 On-Screen Evaluation</h3>
-      <p><i>Digital exam grading system</i></p>
-      <p>• Annotation Tools<br/>• Batch Assignment<br/>• Real-time Saving</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 📋 **OMR Answer Sheet Designer (IMR Design v2)**
+*Advanced MCQ Answer Sheet Design Tool*
+
+Building a sophisticated OMR (Optical Mark Recognition) answer sheet designer for **IMR** - an automated MCQ result detection application. This tool enables educational institutions to create customized, scannable answer sheets with precise bubble detection for accurate result processing.
+
+**Tech Stack:** JavaScript, Canvas API, PDF Generation  
+**Key Features:** Custom Layout Design • Bubble Pattern Configuration • Export to Scannable PDF • Integration with IMR Result Processing
+
+---
+
+### 🏭 **Garments Training MIS (NGO Project)**
+*Management Information System for Industrial Training*
+
+Developing a comprehensive MIS platform for an NGO focused on garments industry training programs. The system manages trainee enrollment, course scheduling, attendance tracking, performance evaluation, and generates detailed reports for stakeholders.
+
+**Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma  
+**Key Features:** Multi-role Access Control • Training Module Management • Attendance & Performance Tracking • Certificate Generation • Real-time Analytics Dashboard
+
+---
+
+### 🎓 **Learning Management System**
+*Complete Educational Platform*
+
+Enterprise-level LMS with multi-role dashboards, comprehensive course management, and advanced assessment tools for educational institutions.
+
+**Features:** Course Creation • Student Progress Tracking • Interactive Assessments • Analytics & Reporting
+
+</div>
 
 <br />
 
