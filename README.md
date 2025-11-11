@@ -80,36 +80,25 @@ I specialize in building **scalable, production-ready web applications** using m
 
 ## 🚀 Current Projects
 
-<div align="center">
-
-### 📋 **OMR Answer Sheet Designer (IMR Design v2)**
-*Advanced MCQ Answer Sheet Design Tool*
-
-Building a sophisticated OMR (Optical Mark Recognition) answer sheet designer for **IMR** - an automated MCQ result detection application. This tool enables educational institutions to create customized, scannable answer sheets with precise bubble detection for accurate result processing.
-
-**Tech Stack:** JavaScript, Canvas API, PDF Generation  
-**Key Features:** Custom Layout Design • Bubble Pattern Configuration • Export to Scannable PDF • Integration with IMR Result Processing
-
----
-
-### 🏭 **Garments Training MIS (NGO Project)**
-*Management Information System for Industrial Training*
-
-Developing a comprehensive MIS platform for an NGO focused on garments industry training programs. The system manages trainee enrollment, course scheduling, attendance tracking, performance evaluation, and generates detailed reports for stakeholders.
-
-**Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma  
-**Key Features:** Multi-role Access Control • Training Module Management • Attendance & Performance Tracking • Certificate Generation • Real-time Analytics Dashboard
-
----
-
-### 🎓 **Learning Management System**
-*Complete Educational Platform*
-
-Enterprise-level LMS with multi-role dashboards, comprehensive course management, and advanced assessment tools for educational institutions.
-
-**Features:** Course Creation • Student Progress Tracking • Interactive Assessments • Analytics & Reporting
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📋 OMR Designer (IMR v2)</h3>
+      <p><i>Advanced MCQ answer sheet design tool</i></p>
+      <p>• Custom Layout Design<br/>• Bubble Pattern Config<br/>• Scannable PDF Export<br/>• IMR Integration</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏭 Garments Training MIS</h3>
+      <p><i>NGO management information system</i></p>
+      <p>• Multi-role Dashboards<br/>• Training Management<br/>• Attendance Tracking<br/>• Certificate Generation</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎓 Learning Management System</h3>
+      <p><i>Complete educational platform</i></p>
+      <p>• Course Management<br/>• Progress Tracking<br/>• Interactive Assessments<br/>• Analytics & Reporting</p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
