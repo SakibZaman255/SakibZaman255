@@ -40,76 +40,36 @@
 
 </div>
 
-```typescript
-const sakibZaman = {
-  location: "Dhaka, Bangladesh 🇧🇩",
-  role: "Full-Stack Web Developer",
-  experience: "2+ years",
-  
-  expertise: {
-    frontend: ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Next.js API Routes", "RESTful APIs"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    orm: ["Prisma (Expert Level)"],
-    architecture: ["Multi-Tenant SaaS", "Microservices", "RBAC"],
-    tools: ["Git", "Docker", "Vercel", "PM2", "Postman"]
-  },
-  
-  specializations: [
-    "🏢 Enterprise SaaS Applications",
-    "🎓 EdTech & Learning Management Systems", 
-    "💰 FinTech & Business Management Tools",
-    "🔐 Authentication & Authorization Systems",
-    "📊 Data Analytics & Reporting Dashboards",
-    "🎨 Custom OMR/OCR Processing Systems"
-  ],
-  
-  currentFocus: [
-    "Building AI-powered document review systems",
-    "Developing enterprise learning platforms",
-    "Creating scalable multi-tenant architectures"
-  ],
-  
-  availability: "Open for freelance & full-time opportunities",
-  responseTime: "< 2 hours (GMT+6)",
-  
-  contact: {
-    email: "sakibzaman255@gmail.com",
-    linkedin: "linkedin.com/in/sakibzaman255"
-  }
-};
-```
+**Hi, I'm Sakib Zaman** — a passionate **Full-Stack Web Developer** based in **Dhaka, Bangladesh** 🇧🇩
 
-<div align="center">
+I specialize in building **scalable, production-ready web applications** using modern technologies like **Next.js, React, TypeScript, PostgreSQL, MySQL, and MongoDB**. With a strong focus on clean code and user experience, I transform complex business requirements into elegant digital solutions.
 
-### 🎯 **Why Work With Me?**
+### 💼 What I Bring to Your Team
 
-</div>
+- ✨ **2+ years** of hands-on experience in full-stack development
+- 🚀 Expertise in building **fast, responsive, and SEO-optimized** web applications
+- 💡 Strong background in **API design, database architecture**, and **cloud deployment**
+- 🎯 Proven track record of delivering projects **on time** with **high-quality standards**
+- 🗄️ Production experience with **MySQL, PostgreSQL, and MongoDB** via Prisma ORM
+- 🤝 Excellent **communication skills** and collaborative mindset
+- 📚 Continuous learner, always staying updated with the latest industry trends
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
-<br/><b>Fast Delivery</b>
-<br/><sub>On-time project completion with agile methodology</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
-<br/><b>Clean Code</b>
-<br/><sub>Maintainable, scalable, and well-documented</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/communication.png" width="60"/>
-<br/><b>Clear Communication</b>
-<br/><sub>Regular updates and transparent workflow</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/guarantee.png" width="60"/>
-<br/><b>Quality Assured</b>
-<br/><sub>Production-tested and battle-proven solutions</sub>
-</td>
-</tr>
-</table>
+### 🎯 Specializations
+
+- 🏢 **Enterprise SaaS Applications** — Multi-tenant architectures with role-based access control
+- 🎓 **EdTech & Learning Management Systems** — Interactive platforms for education
+- 💰 **FinTech & Business Management Tools** — Financial tracking and business automation
+- 🔐 **Authentication & Authorization Systems** — Secure user management solutions
+- 📊 **Data Analytics & Reporting Dashboards** — Real-time insights and visualizations
+- 🎨 **Custom OMR/OCR Processing Systems** — Automated document processing
+
+### 🔭 Currently Working On
+
+- **SmartOMR Desktop App** — Standalone desktop application for offline OMR processing
+- **HajiraBook** — Continuous upgrades and new feature development
+- Enterprise learning management platforms
+
+**I'm passionate about solving real-world problems through code and always eager to take on new challenges. Whether you're looking for a dedicated team member or a reliable freelancer, I'm ready to contribute to your success!**
 
 <br/>
 
@@ -190,16 +150,48 @@ const sakibZaman = {
 
 ### **Core Competencies**
 
-```
-Frontend          Backend           Database          DevOps & Tools
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Next.js 16        Node.js           MySQL             Git & GitHub
-React 19          Express.js        PostgreSQL        Vercel
-TypeScript        Next.js API       MongoDB           PM2
-JavaScript        RESTful APIs      Prisma ORM        Docker
-Tailwind CSS      Authentication    Redis             Postman
-Shadcn/ui         Authorization     Database Design   Figma
-```
+<table>
+<tr>
+<th align="center">Frontend</th>
+<th align="center">Backend</th>
+<th align="center">Database</th>
+<th align="center">DevOps & Tools</th>
+</tr>
+<tr>
+<td align="center">
+Next.js 16<br/>
+React 19<br/>
+TypeScript<br/>
+JavaScript<br/>
+Tailwind CSS<br/>
+Shadcn/ui
+</td>
+<td align="center">
+Node.js<br/>
+Express.js<br/>
+Next.js API<br/>
+RESTful APIs<br/>
+Authentication<br/>
+Authorization
+</td>
+<td align="center">
+MySQL<br/>
+PostgreSQL<br/>
+MongoDB<br/>
+Prisma ORM<br/>
+Redis<br/>
+Database Design
+</td>
+<td align="center">
+Git & GitHub<br/>
+Vercel<br/>
+PM2<br/>
+Docker<br/>
+Postman<br/>
+Figma
+</td>
+</tr>
+</table>
 
 </div>
 
