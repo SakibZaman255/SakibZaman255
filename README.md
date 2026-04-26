@@ -98,8 +98,9 @@ I specialize in building **scalable, production-ready web applications** using m
 <table>
   <tr>
     <td width="100%">
-      <h3>🔵 <a href="https://smartomr.cloud">SmartOMR</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-      <p>Advanced OMR (Optical Mark Recognition) answer sheet design platform for educational institutions. Create custom MCQ answer sheets, configure bubble patterns, and export scannable print-ready PDFs. Fully integrated with the IMR grading and evaluation system.</p>
+      <h3>🏢 <a href="https://hajirabook.tecfiq.com">AccessPro</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
+<p>Enterprise-grade Multi-Tenant Attendance & Payroll Management System with ZKTeco biometric device integration. Features ADMS protocol support, automated attendance tracking, role-based access control (RBAC), comprehensive payroll processing with tiered deductions, shift management, leave tracking, and real-time device synchronization.</p>
+
       <p>
         <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
