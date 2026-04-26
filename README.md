@@ -1,361 +1,493 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=200&section=header&text=SAKIB%20ZAMAN&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" /></div>
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+MongoDB;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Let's+Build+Something+Amazing!" alt="Typing Animation" /></div>
-
-<br />
-
 <div align="center">
-<a href="mailto:sakibzaman255@gmail.com"><img src="https://img.shields.io/badge/📧_Email-sakibzaman255@gmail.com-0D1117?style=for-the-badge&logoColor=D97757" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/sakibzaman255/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=sakibzaman255&style=for-the-badge&color=D97757&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
+  
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=280&section=header&text=Sakib%20Zaman&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Production-Ready%20SaaS%20Solutions&descAlignY=55&descSize=20" width="100%" />
 
-<br />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=800&lines=Next.js+%7C+React+%7C+TypeScript+Expert;Multi-Tenant+SaaS+Architect;MySQL+%7C+PostgreSQL+%7C+MongoDB;8%2B+Production+Apps+%7C+Real+Users;Available+for+Hire+%F0%9F%92%BC" alt="Typing SVG" />
 
----
+<br/>
 
-## 🙋‍♂️ About Me
+<!-- Contact Badges -->
+<a href="mailto:sakibzaman255@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sakibzaman255%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/sakibzaman255/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/sakibzaman255">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-**Hi, I'm Sakib Zaman** — a passionate **Full-Stack Web Developer** based in **Dhaka, Bangladesh** 🇧🇩
+<br/><br/>
 
-I specialize in building **scalable, production-ready web applications** using modern technologies like **Next.js, React, TypeScript, PostgreSQL, MySQL, and MongoDB**. With a strong focus on clean code and user experience, I transform complex business requirements into elegant digital solutions.
-
-### What I Bring to Your Team:
-
-- ✨ **2+ years** of hands-on experience in full-stack development
-- 🚀 Expertise in building **fast, responsive, and SEO-optimized** web applications
-- 💼 Strong background in **API design, database architecture**, and **cloud deployment**
-- 🎯 Proven track record of delivering projects **on time** with **high-quality standards**
-- 🗄️ Production experience with **MySQL, PostgreSQL, and MongoDB** via Prisma ORM
-- 🤝 Excellent **communication skills** and collaborative mindset
-- 📚 Continuous learner, always staying updated with the latest industry trends
-
-### Currently Working On:
-
-- AI-powered document review systems with real-time collaboration
-- Enterprise learning management platforms
-- Digital evaluation systems for educational institutions
-
-**I'm passionate about solving real-world problems through code and always eager to take on new challenges. Whether you're looking for a dedicated team member or a reliable freelancer, I'm ready to contribute to your success!**
-
-<br />
-
----
-
-## 🛠️ My Technology Stack
-
-<div align="center">
-
-### **Enterprise-Grade Tools for Production-Ready Solutions**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<h4>Frontend Development</h4>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind" alt="Frontend" />
-
-<p><i>Fast, responsive, and SEO-optimized interfaces</i></p>
-
-</td>
-<td align="center" width="50%">
-
-<h4>Backend & API</h4>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nextjs" alt="Backend" />
-
-<p><i>Scalable REST APIs and server-side logic</i></p>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-<h4>Databases</h4>
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases" />
-
-<p><i>Relational & NoSQL — production experience with all three</i></p>
-
-</td>
-<td align="center" width="50%">
-
-<h4>Development Tools</h4>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" alt="Tools" />
-
-<p><i>Professional workflow from design to deployment</i></p>
-
-</td>
-</tr>
-</table>
+<!-- Stats Badges -->
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-00C853?style=flat-square&labelColor=1a1a1a" alt="Experience"/>
+<img src="https://img.shields.io/badge/Projects-15%2B%20Completed-3B82F6?style=flat-square&labelColor=1a1a1a" alt="Projects"/>
+<img src="https://img.shields.io/badge/Production%20Apps-8%2B%20Live-F59E0B?style=flat-square&labelColor=1a1a1a" alt="Live Apps"/>
+<img src="https://img.shields.io/badge/Response%20Time-2%20Hours-EF4444?style=flat-square&labelColor=1a1a1a" alt="Response"/>
+<img src="https://komarev.com/ghpvc/?username=sakibzaman255&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
-<br />
+<br/>
 
 ---
 
-## 🌐 Live Projects
-
-> Production applications built and deployed — real users, real data, real impact.
-
-<br />
-
-### 🏆 Featured — Commercial SaaS
-
-<table>
-<tr>
-<td width="100%">
-
-<h3>🔵 <a href="https://smartomr.cloud">SmartOMR</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Comprehensive OMR (Optical Mark Recognition) sheet processing and exam management system with multi-tenant architecture. Features include automated bubble detection and answer extraction, custom OMR template designer with visual canvas editor, batch processing with real-time status tracking, automated scoring and grading with configurable rules, role-based access control (Super Admin, Admin, Tenant), license management with credit-based OMR balance system, detailed analytics and performance reports, and support for multiple question sets (A, B, C, D, E).</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js_16-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_19-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Fabric.js-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Canvas_API-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
-</p>
-
-<p>🔗 <strong><a href="https://smartomr.cloud">smartomr.cloud</a></strong> &nbsp;|&nbsp; 📦 Database: <code>MySQL</code> via <code>Prisma ORM</code> &nbsp;|&nbsp; 🔐 Multi-tenant SaaS with RBAC</p>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### 📋 Enterprise & Business Applications
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>🏢 <a href="https://hajirabook.tecfiq.com">HajiraBook</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Enterprise-grade Multi-Tenant Attendance & Payroll Management System with ZKTeco biometric device integration. Features ADMS protocol support, automated attendance tracking, role-based access control (RBAC), comprehensive payroll processing with tiered deductions, shift management, leave tracking, and real-time device synchronization.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-</p>
-
-<p>🔗 <a href="https://hajirabook.tecfiq.com">hajirabook.tecfiq.com</a><br/>📦 Database: <code>PostgreSQL</code> via <code>Prisma ORM</code> &nbsp;|&nbsp; 🔐 Multi-tenant SaaS with RBAC</p>
-
-</td>
-<td width="50%">
-
-<h3>🧾 <a href="https://jannati-traders-billing.vercel.app">Jannati Traders Billing</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Business billing and invoice management system for a local trading company. Includes product catalog management, customer records, invoice PDF generation, and a sales analytics dashboard.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-</p>
-
-<p>🔗 <a href="https://jannati-traders-billing.vercel.app">jannati-traders-billing.vercel.app</a><br/>📦 Database: <code>MongoDB</code> via <code>Prisma ORM</code></p>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### ⚖️ Legal & Professional Tools
-
-<table>
-<tr>
-<td width="100%">
-
-<h3>⚖️ <a href="https://legal-case-sage.vercel.app">Legal Case Management System</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Multi-tenant SaaS platform built for lawyers and legal teams. Track cases, upcoming hearings, deadlines, and client matters — all with secure per-tenant data isolation and team-based role access control. Never miss a court date again.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/NextAuth-0D1117?style=flat-square&logo=auth0&logoColor=white" />
-</p>
-
-<p>🔗 <a href="https://legal-case-sage.vercel.app">legal-case-sage.vercel.app</a> &nbsp;|&nbsp; 📦 Database: <code>MongoDB</code> via <code>Prisma ORM</code> &nbsp;|&nbsp; 🔐 Multi-tenant with role-based access</p>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### 🎓 EdTech Applications
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>📝 <a href="https://online-assessment-platform-one.vercel.app">Online Assessment Platform</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Digital MCQ exam and assessment system for educational institutions. Supports real-time evaluation, automated result calculation, and student progress tracking with admin and student role dashboards.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-</p>
-
-<p>🔗 <a href="https://online-assessment-platform-one.vercel.app">online-assessment-platform</a><br/>📦 Database: <code>MongoDB</code> via <code>Prisma ORM</code></p>
-
-</td>
-<td width="50%">
-
-<h3>🎓 <a href="https://nextjs-learning-hub.vercel.app">Next.js Learning Hub</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Full-featured Learning Management System with course creation, student enrollment, lesson progress tracking, interactive assessments, and admin analytics. A complete educational platform built from scratch.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-</p>
-
-<p>🔗 <a href="https://nextjs-learning-hub.vercel.app">nextjs-learning-hub.vercel.app</a><br/>📦 Database: <code>MongoDB</code> via <code>Prisma ORM</code></p>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### 💰 FinTech
-
-<table>
-<tr>
-<td width="100%">
-
-<h3>💰 <a href="https://flow-track-nu.vercel.app">FlowTrack — Personal Finance Manager</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>A comprehensive personal money management app with 11 feature modules. Track every transaction, manage loans (lent/borrowed with partial repayments), set auto-tracked savings goals, view 6-month spending analytics, and generate printable PDF reports. Includes per-person spending views, a financial calendar, monthly budget limiter, and recurring transaction engine.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Recharts-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-<p>🔗 <a href="https://flow-track-nu.vercel.app">flow-track-nu.vercel.app</a> &nbsp;|&nbsp; 📦 Database: <code>MongoDB</code> via <code>Prisma ORM</code> &nbsp;|&nbsp; ✅ 100% Free, 11 Modules, 6 Themes</p>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### 🛠️ Developer Tools & Open Source
-
-<table>
-<tr>
-<td width="33%">
-
-<h3>🗂️ <a href="https://schema-designer-eta.vercel.app">Schema Designer</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Visual database schema design tool. Create ER diagrams interactively, define table relationships, and export ready-to-use PostgreSQL and Prisma schema definitions.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Canvas_API-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
-</p>
-
-<p>🔗 <a href="https://schema-designer-eta.vercel.app">schema-designer-eta</a><br/>📦 No database (client-side tool)</p>
-
-</td>
-<td width="33%">
-
-<h3>📚 <a href="https://prisma-for-dummies.vercel.app">Prisma for Dummies</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Interactive reference guide for Prisma ORM — clean, searchable docs with real-world examples covering models, relations, queries, and migrations.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/MDX-0D1117?style=flat-square&logo=mdx&logoColor=1B1F24" />
-</p>
-
-<p>🔗 <a href="https://prisma-for-dummies.vercel.app">prisma-for-dummies</a><br/>📦 No database (static docs)</p>
-
-</td>
-<td width="33%">
-
-<h3>🖥️ <a href="https://github-command-guideline.vercel.app">GitHub Command Guide</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
-
-<p>Comprehensive interactive Git & GitHub CLI reference — categorized commands with usage examples and explanations. Built for developers at all levels.</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-</p>
-
-<p>🔗 <a href="https://github-command-guideline.vercel.app">github-command-guideline</a><br/>📦 No database (static docs)</p>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### 🚀 Current Projects in Development
+<div align="center">
+
+## 👨‍💻 About Me
+
+</div>
+
+```typescript
+const sakibZaman = {
+  location: "Dhaka, Bangladesh 🇧🇩",
+  role: "Full-Stack Web Developer",
+  experience: "2+ years",
+  
+  expertise: {
+    frontend: ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Next.js API Routes", "RESTful APIs"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    orm: ["Prisma (Expert Level)"],
+    architecture: ["Multi-Tenant SaaS", "Microservices", "RBAC"],
+    tools: ["Git", "Docker", "Vercel", "PM2", "Postman"]
+  },
+  
+  specializations: [
+    "🏢 Enterprise SaaS Applications",
+    "🎓 EdTech & Learning Management Systems", 
+    "💰 FinTech & Business Management Tools",
+    "🔐 Authentication & Authorization Systems",
+    "📊 Data Analytics & Reporting Dashboards",
+    "🎨 Custom OMR/OCR Processing Systems"
+  ],
+  
+  currentFocus: [
+    "Building AI-powered document review systems",
+    "Developing enterprise learning platforms",
+    "Creating scalable multi-tenant architectures"
+  ],
+  
+  availability: "Open for freelance & full-time opportunities",
+  responseTime: "< 2 hours (GMT+6)",
+  
+  contact: {
+    email: "sakibzaman255@gmail.com",
+    linkedin: "linkedin.com/in/sakibzaman255"
+  }
+};
+```
+
+<div align="center">
+
+### 🎯 **Why Work With Me?**
+
+</div>
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
+<br/><b>Fast Delivery</b>
+<br/><sub>On-time project completion with agile methodology</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+<br/><b>Clean Code</b>
+<br/><sub>Maintainable, scalable, and well-documented</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/communication.png" width="60"/>
+<br/><b>Clear Communication</b>
+<br/><sub>Regular updates and transparent workflow</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/guarantee.png" width="60"/>
+<br/><b>Quality Assured</b>
+<br/><sub>Production-tested and battle-proven solutions</sub>
+</td>
+</tr>
+</table>
 
-<h3>🏭 Garments Training MIS</h3>
+<br/>
 
-<p><i>NGO management information system</i></p>
+---
 
-<p>• Multi-role Dashboards<br/>• Training Management<br/>• Attendance Tracking<br/>• Certificate Generation</p>
+<div align="center">
+
+## 🛠️ Technology Stack & Skills
+
+</div>
+
+<div align="center">
+
+### **Production-Proven Technologies**
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br/>Next.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br/>React
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br/>TypeScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br/>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br/>Node.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<br/>Prisma
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br/>Tailwind
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br/>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br/>PostgreSQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br/>MongoDB
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br/>Git
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br/>GitHub
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br/>Vercel
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br/>VS Code
+</td>
+</tr>
+</table>
+
+### **Core Competencies**
+
+```
+Frontend          Backend           Database          DevOps & Tools
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Next.js 16        Node.js           MySQL             Git & GitHub
+React 19          Express.js        PostgreSQL        Vercel
+TypeScript        Next.js API       MongoDB           PM2
+JavaScript        RESTful APIs      Prisma ORM        Docker
+Tailwind CSS      Authentication    Redis             Postman
+Shadcn/ui         Authorization     Database Design   Figma
+```
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Production Projects
+
+**Live applications serving real users with real business impact**
+
+</div>
+
+<br/>
+
+<!-- SmartOMR - Featured Project -->
+<div align="center">
+
+### 🏆 **SmartOMR** — Enterprise OMR Processing SaaS
+[![Live](https://img.shields.io/badge/🌐_LIVE-smartomr.cloud-00C853?style=for-the-badge)](https://smartomr.cloud)
+[![Status](https://img.shields.io/badge/Status-Production-00C853?style=for-the-badge)](https://smartomr.cloud)
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+**Comprehensive OMR (Optical Mark Recognition) exam management system with multi-tenant architecture**
+
+#### 🎯 Key Features
+- ✅ **Automated Bubble Detection** — AI-powered answer extraction from scanned sheets
+- ✅ **Visual OMR Designer** — Canvas-based template creator with Fabric.js
+- ✅ **Batch Processing** — Process hundreds of sheets with real-time progress tracking
+- ✅ **Multi-Tenant SaaS** — Complete data isolation with RBAC (Super Admin, Admin, Tenant)
+- ✅ **Smart Grading System** — Configurable scoring rules, grace questions, custom marking
+- ✅ **Credit System** — License management with OMR balance tracking
+- ✅ **Advanced Analytics** — Performance reports, batch statistics, student insights
+- ✅ **Multiple Question Sets** — Support for Sets A, B, C, D, E with auto-detection
+
+#### 💼 Business Impact
+- 🎓 Used by educational institutions for exam processing
+- 📊 Processes 1000+ answer sheets monthly
+- ⚡ Reduces manual grading time by 95%
+- 🔐 Enterprise-grade security and data protection
 
 </td>
-<td align="center" width="33%">
+<td width="40%">
 
-<h3>🤖 AI Document Review</h3>
+#### 🛠️ Tech Stack
+```yaml
+Frontend:
+  - Next.js 16 (App Router)
+  - React 19
+  - Tailwind CSS
+  - Fabric.js (Canvas)
+  - Chart.js & Recharts
 
-<p><i>AI-powered document collaboration</i></p>
+Backend:
+  - Next.js API Routes
+  - NextAuth.js
+  - Prisma ORM
+  - Canvas API
+  - Sharp (Image Processing)
 
-<p>• Real-time Collaboration<br/>• AI-Assisted Review<br/>• Version Control<br/>• Smart Annotations</p>
+Database:
+  - MySQL
+  - Multi-tenant schema
 
-</td>
-<td align="center" width="33%">
+Features:
+  - Role-based access control
+  - License management
+  - Activity logging
+  - Session tracking
+  - PDF generation
+  - Batch processing
+```
 
-<h3>📊 Business Analytics Suite</h3>
-
-<p><i>Enterprise data visualization platform</i></p>
-
-<p>• Custom Dashboards<br/>• Real-time Metrics<br/>• Data Export Tools<br/>• Multi-source Integration</p>
+**🔗 [Visit SmartOMR →](https://smartomr.cloud)**
 
 </td>
 </tr>
 </table>
 
-<br />
+<br/>
+
+---
+
+<br/>
+
+<!-- Other Projects Grid -->
+<div align="center">
+
+### 💼 **More Production Applications**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏢 **HajiraBook** — Attendance & Payroll SaaS
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://hajirabook.tecfiq.com)
+
+Enterprise multi-tenant attendance management with **ZKTeco biometric integration**, ADMS protocol support, automated payroll processing, shift management, and real-time device sync.
+
+**Tech:** Next.js · TypeScript · PostgreSQL · Prisma · RBAC
+
+**Impact:** Managing 500+ employees across multiple organizations
+
+� [hajirabook.tecfiq.com](https://hajirabook.tecfiq.com)
+
+---
+
+#### ⚖️ **Legal Case Management System**
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://legal-case-sage.vercel.app)
+
+Multi-tenant SaaS for law firms. Track cases, hearings, deadlines, and client matters with secure data isolation and team collaboration.
+
+**Tech:** Next.js · TypeScript · MongoDB · Prisma · NextAuth
+
+**Impact:** Helping lawyers never miss a court date
+
+🔗 [legal-case-sage.vercel.app](https://legal-case-sage.vercel.app)
+
+---
+
+#### 💰 **FlowTrack** — Personal Finance Manager
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://flow-track-nu.vercel.app)
+
+Comprehensive money management with **11 feature modules**: transaction tracking, loan management, savings goals, 6-month analytics, PDF reports, financial calendar, and budget limiter.
+
+**Tech:** Next.js · TypeScript · MongoDB · Recharts · JWT
+
+**Features:** 11 Modules · 6 Themes · 100% Free
+
+🔗 [flow-track-nu.vercel.app](https://flow-track-nu.vercel.app)
+
+</td>
+<td width="50%">
+
+#### 🎓 **Next.js Learning Hub** — LMS Platform
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://nextjs-learning-hub.vercel.app)
+
+Full-featured Learning Management System with course creation, student enrollment, progress tracking, interactive assessments, and admin analytics.
+
+**Tech:** Next.js · TypeScript · MongoDB · Prisma
+
+**Impact:** Complete educational platform from scratch
+
+� [nextjs-learning-hub.vercel.app](https://nextjs-learning-hub.vercel.app)
+
+---
+
+#### 📝 **Online Assessment Platform**
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://online-assessment-platform-one.vercel.app)
+
+Digital MCQ exam system with real-time evaluation, automated result calculation, and student progress tracking with role-based dashboards.
+
+**Tech:** Next.js · TypeScript · MongoDB · Prisma
+
+**Impact:** Streamlining digital assessments for institutions
+
+🔗 [online-assessment-platform-one.vercel.app](https://online-assessment-platform-one.vercel.app)
+
+---
+
+#### 🧾 **Jannati Traders Billing System**
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://jannati-traders-billing.vercel.app)
+
+Business billing and invoice management with product catalog, customer records, PDF generation, and sales analytics dashboard.
+
+**Tech:** Next.js · TypeScript · MongoDB · Prisma
+
+**Impact:** Digitizing local business operations
+
+� [jannati-traders-billing.vercel.app](https://jannati-traders-billing.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Developer Tools -->
+<div align="center">
+
+### 🛠️ **Developer Tools & Open Source**
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🗂️ **Schema Designer**
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://schema-designer-eta.vercel.app)
+
+Visual database schema design tool. Create ER diagrams, define relationships, export PostgreSQL and Prisma schemas.
+
+**Tech:** Next.js · TypeScript · Canvas API
+
+🔗 [schema-designer-eta.vercel.app](https://schema-designer-eta.vercel.app)
+
+</td>
+<td align="center" width="33%">
+
+#### � **Prisma for Dummies**
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://prisma-for-dummies.vercel.app)
+
+Interactive Prisma ORM reference guide with real-world examples covering models, relations, queries, and migrations.
+
+**Tech:** Next.js · TypeScript · MDX
+
+🔗 [prisma-for-dummies.vercel.app](https://prisma-for-dummies.vercel.app)
+
+</td>
+<td align="center" width="33%">
+
+#### 🖥️ **GitHub Command Guide**
+[![Live](https://img.shields.io/badge/LIVE-✅-00C853?style=flat-square)](https://github-command-guideline.vercel.app)
+
+Comprehensive Git & GitHub CLI reference with categorized commands and usage examples.
+
+**Tech:** Next.js · TypeScript · Tailwind
+
+🔗 [github-command-guideline.vercel.app](https://github-command-guideline.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Projects in Development -->
+<div align="center">
+
+### 🚧 **Currently Building**
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🏭 **Garments Training MIS**
+<sub>NGO Management System</sub>
+
+- Multi-role Dashboards
+- Training Management
+- Attendance Tracking
+- Certificate Generation
+
+**Status:** 🟡 In Development
+
+</td>
+<td align="center" width="33%">
+
+#### 🤖 **AI Document Review**
+<sub>AI-Powered Collaboration</sub>
+
+- Real-time Collaboration
+- AI-Assisted Review
+- Version Control
+- Smart Annotations
+
+**Status:** 🟡 In Development
+
+</td>
+<td align="center" width="33%">
+
+#### 📊 **Business Analytics Suite**
+<sub>Enterprise Data Platform</sub>
+
+- Custom Dashboards
+- Real-time Metrics
+- Data Export Tools
+- Multi-source Integration
+
+**Status:** 🟡 Planning Phase
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
