@@ -49,7 +49,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
 ### 👋 Hi there! I'm **Sakib Zaman**
 
@@ -59,7 +59,9 @@
 
 I transform complex business requirements into elegant digital solutions using modern technologies like **Next.js, React, TypeScript, PostgreSQL, MySQL, and MongoDB**. With a strong focus on clean code and exceptional user experience, I deliver applications that make a real impact.
 
-<br clear="right"/>
+</div>
+
+<br/>
 
 ### 💎 What Makes Me Different
 
@@ -240,7 +242,8 @@ I transform complex business requirements into elegant digital solutions using m
 <img src="https://img.shields.io/badge/🌐_VISIT_LIVE_SITE-smartomr.cloud-00C853?style=for-the-badge&labelColor=1a1a1a&logo=vercel&logoColor=white" alt="SmartOMR Live"/>
 </a>
 <img src="https://img.shields.io/badge/STATUS-🟢_PRODUCTION-00C853?style=for-the-badge&labelColor=1a1a1a" alt="Status"/>
-<img src="https://img.shields.io/badge/USERS-1000%2B_Sheets%2FMonth-3B82F6?style=for-the-badge&labelColor=1a1a1a" alt="Users"/>
+<img src="https://img.shields.io/badge/CUSTOMERS-80%2B_Active-3B82F6?style=for-the-badge&labelColor=1a1a1a" alt="Customers"/>
+<img src="https://img.shields.io/badge/PROCESSED-188%2C000%2B_Sheets-F59E0B?style=for-the-badge&labelColor=1a1a1a" alt="Sheets Processed"/>
 
 </div>
 
@@ -265,8 +268,8 @@ Comprehensive **OMR (Optical Mark Recognition)** exam management system with **m
 
 #### � **Business Impact**
 
-- 🎓 Used by **educational institutions** for exam processing
-- 📊 Processes **1000+ answer sheets** monthly
+- 🎓 Used by **80+ educational institutions** and organizations
+- 📊 Successfully processed **188,000+ answer sheets**
 - ⚡ Reduces manual grading time by **95%**
 - 🔐 **Enterprise-grade** security and data protection
 - 💰 **Revenue-generating** SaaS product
