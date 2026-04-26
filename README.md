@@ -1,10 +1,6 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=200&section=header&text=SAKIB%20ZAMAN&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=200&section=header&text=SAKIB%20ZAMAN&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" /></div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+MongoDB;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Let's+Build+Something+Amazing!" alt="Typing Animation" />
-</div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Next.js+%7C+React+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+MongoDB;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Let's+Build+Something+Amazing!" alt="Typing Animation" /></div>
 
 <br />
 
@@ -73,6 +69,7 @@ I specialize in building **scalable, production-ready web applications** using m
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="50%">
 
@@ -115,17 +112,19 @@ I specialize in building **scalable, production-ready web applications** using m
 
 <h3>🔵 <a href="https://smartomr.cloud">SmartOMR</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
 
-<p>Advanced OMR (Optical Mark Recognition) answer sheet design platform for educational institutions. Create custom MCQ answer sheets, configure bubble patterns, and export scannable print-ready PDFs. Fully integrated with the IMR grading and evaluation system.</p>
+<p>Comprehensive OMR (Optical Mark Recognition) sheet processing and exam management system with multi-tenant architecture. Features include automated bubble detection and answer extraction, custom OMR template designer with visual canvas editor, batch processing with real-time status tracking, automated scoring and grading with configurable rules, role-based access control (Super Admin, Admin, Tenant), license management with credit-based OMR balance system, detailed analytics and performance reports, and support for multiple question sets (A, B, C, D, E).</p>
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Next.js_16-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Fabric.js-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Canvas_API-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
 </p>
 
-<p>🔗 <strong><a href="https://smartomr.cloud">smartomr.cloud</a></strong> &nbsp;|&nbsp; 📦 Database: <code>MySQL</code> via <code>Prisma ORM</code></p>
+<p>🔗 <strong><a href="https://smartomr.cloud">smartomr.cloud</a></strong> &nbsp;|&nbsp; 📦 Database: <code>MySQL</code> via <code>Prisma ORM</code> &nbsp;|&nbsp; 🔐 Multi-tenant SaaS with RBAC</p>
 
 </td>
 </tr>
@@ -328,30 +327,11 @@ I specialize in building **scalable, production-ready web applications** using m
 <tr>
 <td align="center" width="33%">
 
-<h3>📋 OMR Designer (IMR v2)</h3>
-
-<p><i>Advanced MCQ answer sheet design tool</i></p>
-
-<p>
-• Custom Layout Design<br/>
-• Bubble Pattern Config<br/>
-• Scannable PDF Export<br/>
-• IMR Integration
-</p>
-
-</td>
-<td align="center" width="33%">
-
 <h3>🏭 Garments Training MIS</h3>
 
 <p><i>NGO management information system</i></p>
 
-<p>
-• Multi-role Dashboards<br/>
-• Training Management<br/>
-• Attendance Tracking<br/>
-• Certificate Generation
-</p>
+<p>• Multi-role Dashboards<br/>• Training Management<br/>• Attendance Tracking<br/>• Certificate Generation</p>
 
 </td>
 <td align="center" width="33%">
@@ -360,12 +340,16 @@ I specialize in building **scalable, production-ready web applications** using m
 
 <p><i>AI-powered document collaboration</i></p>
 
-<p>
-• Real-time Collaboration<br/>
-• AI-Assisted Review<br/>
-• Version Control<br/>
-• Smart Annotations
-</p>
+<p>• Real-time Collaboration<br/>• AI-Assisted Review<br/>• Version Control<br/>• Smart Annotations</p>
+
+</td>
+<td align="center" width="33%">
+
+<h3>📊 Business Analytics Suite</h3>
+
+<p><i>Enterprise data visualization platform</i></p>
+
+<p>• Custom Dashboards<br/>• Real-time Metrics<br/>• Data Export Tools<br/>• Multi-source Integration</p>
 
 </td>
 </tr>
@@ -517,11 +501,7 @@ I specialize in building **scalable, production-ready web applications** using m
 
 <br />
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
-
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" /></div>
 
 <div align="center">
 
