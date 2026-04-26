@@ -1,278 +1,315 @@
 <div align="center">
-  
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=280&section=header&text=Sakib%20Zaman&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Production-Ready%20SaaS%20Solutions&descAlignY=55&descSize=20" width="100%" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=800&lines=Next.js+%7C+React+%7C+TypeScript+Expert;Multi-Tenant+SaaS+Architect;MySQL+%7C+PostgreSQL+%7C+MongoDB;8%2B+Production+Apps+%7C+Real+Users;Available+for+Hire+%F0%9F%92%BC" alt="Typing SVG" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D97757&height=300&section=header&text=SAKIB%20ZAMAN&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Building%20Production-Ready%20Solutions&descAlignY=58&descSize=22" width="100%" />
+
+<!-- Animated Typing Text -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=D97757&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=Next.js+%7C+React+%7C+TypeScript+Specialist+%F0%9F%9A%80;Multi-Tenant+SaaS+Architecture+Expert+%F0%9F%8F%97%EF%B8%8F;MySQL+%7C+PostgreSQL+%7C+MongoDB+Pro+%F0%9F%97%84%EF%B8%8F;8%2B+Live+Production+Apps+%7C+Real+Users+%F0%9F%8C%8D;Open+for+Freelance+%26+Full-Time+%F0%9F%92%BC" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Contact Badges -->
+<!-- Animated Contact Buttons -->
+<p>
 <a href="mailto:sakibzaman255@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sakibzaman255%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/sakibzaman255/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/sakibzaman255">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/⭐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
 </a>
+<a href="https://smartomr.cloud">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-D97757?style=for-the-badge&logoColor=white&labelColor=D97757" alt="Portfolio"/>
+</a>
+</p>
 
-<br/><br/>
+<!-- Animated Stats -->
+<p>
+<img src="https://img.shields.io/badge/💼_Experience-2%2B%20Years-00C853?style=for-the-badge&labelColor=1a1a1a&logo=clockify&logoColor=white" alt="Experience"/>
+<img src="https://img.shields.io/badge/🚀_Projects-15%2B%20Completed-3B82F6?style=for-the-badge&labelColor=1a1a1a&logo=rocket&logoColor=white" alt="Projects"/>
+<img src="https://img.shields.io/badge/🌍_Live_Apps-8%2B%20Production-F59E0B?style=for-the-badge&labelColor=1a1a1a&logo=vercel&logoColor=white" alt="Live Apps"/>
+<img src="https://img.shields.io/badge/⚡_Response-Under_2_Hours-EF4444?style=for-the-badge&labelColor=1a1a1a&logo=lightning&logoColor=white" alt="Response"/>
+</p>
 
-<!-- Stats Badges -->
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-00C853?style=flat-square&labelColor=1a1a1a" alt="Experience"/>
-<img src="https://img.shields.io/badge/Projects-15%2B%20Completed-3B82F6?style=flat-square&labelColor=1a1a1a" alt="Projects"/>
-<img src="https://img.shields.io/badge/Production%20Apps-8%2B%20Live-F59E0B?style=flat-square&labelColor=1a1a1a" alt="Live Apps"/>
-<img src="https://img.shields.io/badge/Response%20Time-2%20Hours-EF4444?style=flat-square&labelColor=1a1a1a" alt="Response"/>
-<img src="https://komarev.com/ghpvc/?username=sakibzaman255&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sakibzaman255&style=for-the-badge&color=D97757&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 </div>
 
-**Hi, I'm Sakib Zaman** — a passionate **Full-Stack Web Developer** based in **Dhaka, Bangladesh** 🇧🇩
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I specialize in building **scalable, production-ready web applications** using modern technologies like **Next.js, React, TypeScript, PostgreSQL, MySQL, and MongoDB**. With a strong focus on clean code and user experience, I transform complex business requirements into elegant digital solutions.
+### 👋 Hi there! I'm **Sakib Zaman**
 
-### 💼 What I Bring to Your Team
+🌍 Based in **Dhaka, Bangladesh** 🇧🇩  
+💼 **Full-Stack Web Developer** with **2+ years** of experience  
+🚀 Specialized in building **scalable, production-ready SaaS applications**
 
-- ✨ **2+ years** of hands-on experience in full-stack development
-- 🚀 Expertise in building **fast, responsive, and SEO-optimized** web applications
-- 💡 Strong background in **API design, database architecture**, and **cloud deployment**
-- 🎯 Proven track record of delivering projects **on time** with **high-quality standards**
-- 🗄️ Production experience with **MySQL, PostgreSQL, and MongoDB** via Prisma ORM
-- 🤝 Excellent **communication skills** and collaborative mindset
-- 📚 Continuous learner, always staying updated with the latest industry trends
+I transform complex business requirements into elegant digital solutions using modern technologies like **Next.js, React, TypeScript, PostgreSQL, MySQL, and MongoDB**. With a strong focus on clean code and exceptional user experience, I deliver applications that make a real impact.
 
-### 🎯 Specializations
+<br clear="right"/>
 
-- 🏢 **Enterprise SaaS Applications** — Multi-tenant architectures with role-based access control
-- 🎓 **EdTech & Learning Management Systems** — Interactive platforms for education
-- 💰 **FinTech & Business Management Tools** — Financial tracking and business automation
-- 🔐 **Authentication & Authorization Systems** — Secure user management solutions
-- 📊 **Data Analytics & Reporting Dashboards** — Real-time insights and visualizations
-- 🎨 **Custom OMR/OCR Processing Systems** — Automated document processing
+### 💎 What Makes Me Different
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### � **Technical Excellence**
+- ✅ **2+ years** production experience
+- ✅ **8+ live applications** serving real users
+- ✅ **15+ completed projects** across industries
+- ✅ Expert in **MySQL, PostgreSQL & MongoDB**
+- ✅ **Prisma ORM** specialist
+- ✅ **Multi-tenant SaaS** architecture pro
+
+</td>
+<td width="50%" valign="top">
+
+#### � **Delivery & Communication**
+- ✅ **On-time delivery** with agile methodology
+- ✅ **Clean, maintainable** code standards
+- ✅ **< 2 hours response time** (GMT+6)
+- ✅ **Clear communication** & regular updates
+- ✅ **Production-tested** solutions
+- ✅ **Complete documentation** included
+
+</td>
+</tr>
+</table>
+
+### 🎨 Core Specializations
+
+<div align="center">
+
+| 🏢 Enterprise SaaS | 🎓 EdTech Platforms | 💰 FinTech Solutions | 🔐 Auth Systems |
+|:---:|:---:|:---:|:---:|
+| Multi-tenant architectures with RBAC | Learning management systems | Financial tracking & automation | Secure user management |
+| **📊 Analytics Dashboards** | **🎨 OMR/OCR Processing** | **🔧 Business Tools** | **☁️ Cloud Deployment** |
+| Real-time insights & reports | Automated document processing | Custom management systems | Vercel, AWS, Docker |
+
+</div>
 
 ### 🔭 Currently Working On
 
-- **SmartOMR Desktop App** — Standalone desktop application for offline OMR processing
-- **HajiraBook** — Continuous upgrades and new feature development
-- Enterprise learning management platforms
-
-**I'm passionate about solving real-world problems through code and always eager to take on new challenges. Whether you're looking for a dedicated team member or a reliable freelancer, I'm ready to contribute to your success!**
-
-<br/>
-
----
-
-<div align="center">
-
-## 🛠️ Technology Stack & Skills
-
-</div>
-
-<div align="center">
-
-### **Production-Proven Technologies**
-
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br/>Next.js
+<td width="33%" align="center">
+
+🖥️ **SmartOMR Desktop App**  
+<sub>Standalone desktop application for offline OMR processing with advanced features</sub>
+
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br/>React
+<td width="33%" align="center">
+
+🏢 **HajiraBook Continuous Upgrades**  
+<sub>Adding new features and improvements to the attendance management system</sub>
+
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br/>TypeScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br/>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br/>Node.js
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-<br/>Prisma
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br/>Tailwind
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br/>MySQL
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br/>PostgreSQL
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br/>MongoDB
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br/>Git
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br/>GitHub
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br/>Vercel
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br/>VS Code
+<td width="33%" align="center">
+
+🎓 **Enterprise Learning Platform**  
+<sub>Comprehensive LMS for corporate training and education</sub>
+
 </td>
 </tr>
 </table>
 
-### **Core Competencies**
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technology Stack & Expertise
+
+</div>
+
+<div align="center">
+
+### **🎯 Production-Proven Technologies**
+
+<!-- Tech Icons with Animation -->
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,tailwind,prisma&theme=dark" alt="Tech Stack 1" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,git,github,docker,vercel&theme=dark" alt="Tech Stack 2" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,yarn,linux,bash,nginx&theme=dark" alt="Tech Stack 3" />
+</p>
+
+</div>
+
+### 📊 **Detailed Competencies**
 
 <table>
 <tr>
-<th align="center">Frontend</th>
-<th align="center">Backend</th>
-<th align="center">Database</th>
-<th align="center">DevOps & Tools</th>
+<th align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/code.png" width="30"/><br/>
+<b>Frontend Development</b>
+</th>
+<th align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/server.png" width="30"/><br/>
+<b>Backend & APIs</b>
+</th>
+<th align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/database.png" width="30"/><br/>
+<b>Database & ORM</b>
+</th>
+<th align="center" width="25%">
+<img src="https://img.icons8.com/fluency/48/000000/cloud.png" width="30"/><br/>
+<b>DevOps & Tools</b>
+</th>
 </tr>
 <tr>
 <td align="center">
-Next.js 16<br/>
-React 19<br/>
-TypeScript<br/>
-JavaScript<br/>
-Tailwind CSS<br/>
-Shadcn/ui
+<code>Next.js 16</code><br/>
+<code>React 19</code><br/>
+<code>TypeScript</code><br/>
+<code>JavaScript ES6+</code><br/>
+<code>Tailwind CSS</code><br/>
+<code>Shadcn/ui</code><br/>
+<code>HTML5 & CSS3</code>
 </td>
 <td align="center">
-Node.js<br/>
-Express.js<br/>
-Next.js API<br/>
-RESTful APIs<br/>
-Authentication<br/>
-Authorization
+<code>Node.js</code><br/>
+<code>Express.js</code><br/>
+<code>Next.js API Routes</code><br/>
+<code>RESTful APIs</code><br/>
+<code>NextAuth.js</code><br/>
+<code>JWT & Sessions</code><br/>
+<code>Middleware</code>
 </td>
 <td align="center">
-MySQL<br/>
-PostgreSQL<br/>
-MongoDB<br/>
-Prisma ORM<br/>
-Redis<br/>
-Database Design
+<code>MySQL</code><br/>
+<code>PostgreSQL</code><br/>
+<code>MongoDB</code><br/>
+<code>Prisma ORM</code><br/>
+<code>Redis</code><br/>
+<code>Database Design</code><br/>
+<code>Query Optimization</code>
 </td>
 <td align="center">
-Git & GitHub<br/>
-Vercel<br/>
-PM2<br/>
-Docker<br/>
-Postman<br/>
-Figma
+<code>Git & GitHub</code><br/>
+<code>Vercel</code><br/>
+<code>PM2</code><br/>
+<code>Docker</code><br/>
+<code>Linux/Ubuntu</code><br/>
+<code>Postman</code><br/>
+<code>Figma</code>
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Production Projects
+
+### 🌟 **Live Applications Serving Real Users**
+
 </div>
 
 <br/>
 
----
-
+<!-- SmartOMR - Hero Project -->
 <div align="center">
 
-## 🚀 Featured Production Projects
+### 🏆 **SMARTOMR** — Enterprise OMR Processing SaaS Platform
 
-**Live applications serving real users with real business impact**
-
-</div>
-
-<br/>
-
-<!-- SmartOMR - Featured Project -->
-<div align="center">
-
-### 🏆 **SmartOMR** — Enterprise OMR Processing SaaS
-[![Live](https://img.shields.io/badge/🌐_LIVE-smartomr.cloud-00C853?style=for-the-badge)](https://smartomr.cloud)
-[![Status](https://img.shields.io/badge/Status-Production-00C853?style=for-the-badge)](https://smartomr.cloud)
+<a href="https://smartomr.cloud">
+<img src="https://img.shields.io/badge/🌐_VISIT_LIVE_SITE-smartomr.cloud-00C853?style=for-the-badge&labelColor=1a1a1a&logo=vercel&logoColor=white" alt="SmartOMR Live"/>
+</a>
+<img src="https://img.shields.io/badge/STATUS-🟢_PRODUCTION-00C853?style=for-the-badge&labelColor=1a1a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/USERS-1000%2B_Sheets%2FMonth-3B82F6?style=for-the-badge&labelColor=1a1a1a" alt="Users"/>
 
 </div>
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-**Comprehensive OMR (Optical Mark Recognition) exam management system with multi-tenant architecture**
+#### 📋 **Project Overview**
 
-#### 🎯 Key Features
-- ✅ **Automated Bubble Detection** — AI-powered answer extraction from scanned sheets
-- ✅ **Visual OMR Designer** — Canvas-based template creator with Fabric.js
-- ✅ **Batch Processing** — Process hundreds of sheets with real-time progress tracking
-- ✅ **Multi-Tenant SaaS** — Complete data isolation with RBAC (Super Admin, Admin, Tenant)
-- ✅ **Smart Grading System** — Configurable scoring rules, grace questions, custom marking
-- ✅ **Credit System** — License management with OMR balance tracking
-- ✅ **Advanced Analytics** — Performance reports, batch statistics, student insights
-- ✅ **Multiple Question Sets** — Support for Sets A, B, C, D, E with auto-detection
+Comprehensive **OMR (Optical Mark Recognition)** exam management system with **multi-tenant architecture**. A complete solution for educational institutions to digitize their examination process.
 
-#### 💼 Business Impact
-- 🎓 Used by educational institutions for exam processing
-- 📊 Processes 1000+ answer sheets monthly
-- ⚡ Reduces manual grading time by 95%
-- 🔐 Enterprise-grade security and data protection
+#### ✨ **Key Features**
+
+🎯 **Automated Bubble Detection** — AI-powered answer extraction from scanned sheets  
+🎨 **Visual OMR Designer** — Canvas-based template creator using Fabric.js  
+⚡ **Batch Processing** — Process hundreds of sheets with real-time progress  
+🏢 **Multi-Tenant SaaS** — Complete data isolation with RBAC  
+📊 **Smart Grading System** — Configurable scoring, grace questions, custom marking  
+💳 **Credit System** — License management with OMR balance tracking  
+📈 **Advanced Analytics** — Performance reports, batch statistics, insights  
+🔢 **Multiple Question Sets** — Support for Sets A, B, C, D, E with auto-detection
+
+#### � **Business Impact**
+
+- 🎓 Used by **educational institutions** for exam processing
+- 📊 Processes **1000+ answer sheets** monthly
+- ⚡ Reduces manual grading time by **95%**
+- 🔐 **Enterprise-grade** security and data protection
+- 💰 **Revenue-generating** SaaS product
 
 </td>
-<td width="40%">
+<td width="45%" valign="top">
 
-#### 🛠️ Tech Stack
+#### 🛠️ **Technology Stack**
+
 ```yaml
 Frontend:
-  - Next.js 16 (App Router)
-  - React 19
-  - Tailwind CSS
-  - Fabric.js (Canvas)
-  - Chart.js & Recharts
-
+  Framework: Next.js 16 (App Router)
+  Library: React 19
+  Styling: Tailwind CSS
+  Canvas: Fabric.js
+  Charts: Chart.js, Recharts
+  
 Backend:
-  - Next.js API Routes
-  - NextAuth.js
-  - Prisma ORM
-  - Canvas API
-  - Sharp (Image Processing)
-
+  Runtime: Node.js
+  API: Next.js API Routes
+  Auth: NextAuth.js
+  ORM: Prisma
+  Processing: Canvas API, Sharp
+  
 Database:
-  - MySQL
-  - Multi-tenant schema
-
+  Primary: MySQL
+  Architecture: Multi-tenant schema
+  
 Features:
-  - Role-based access control
-  - License management
-  - Activity logging
-  - Session tracking
-  - PDF generation
-  - Batch processing
+  ✅ Role-based access control
+  ✅ License management
+  ✅ Activity logging
+  ✅ Session tracking
+  ✅ PDF generation
+  ✅ Batch processing
+  ✅ Real-time updates
 ```
 
-**🔗 [Visit SmartOMR →](https://smartomr.cloud)**
+#### 🔗 **Links**
+
+<a href="https://smartomr.cloud">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-D97757?style=for-the-badge" alt="Live Demo"/>
+</a>
 
 </td>
 </tr>
@@ -280,7 +317,8 @@ Features:
 
 <br/>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -439,41 +477,38 @@ Comprehensive Git & GitHub CLI reference with categorized commands and usage exa
 <tr>
 <td align="center" width="33%">
 
-#### 🏭 **Garments Training MIS**
-<sub>NGO Management System</sub>
+<img src="https://img.icons8.com/fluency/96/000000/desktop.png" width="60"/>
 
-- Multi-role Dashboards
-- Training Management
-- Attendance Tracking
-- Certificate Generation
+#### **SmartOMR Desktop**
+<sub>Offline OMR Processing</sub>
 
-**Status:** 🟡 In Development
+🟡 **In Development**
 
-</td>
-<td align="center" width="33%">
-
-#### 🤖 **AI Document Review**
-<sub>AI-Powered Collaboration</sub>
-
-- Real-time Collaboration
-- AI-Assisted Review
-- Version Control
-- Smart Annotations
-
-**Status:** 🟡 In Development
+Standalone desktop app with advanced offline processing
 
 </td>
 <td align="center" width="33%">
 
-#### 📊 **Business Analytics Suite**
-<sub>Enterprise Data Platform</sub>
+<img src="https://img.icons8.com/fluency/96/000000/upgrade.png" width="60"/>
 
-- Custom Dashboards
-- Real-time Metrics
-- Data Export Tools
-- Multi-source Integration
+#### **HajiraBook v2**
+<sub>Continuous Upgrades</sub>
 
-**Status:** 🟡 Planning Phase
+🟢 **Active Development**
+
+New features and performance improvements
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/>
+
+#### **Enterprise LMS**
+<sub>Corporate Training</sub>
+
+🟡 **In Development**
+
+Comprehensive learning platform
 
 </td>
 </tr>
@@ -625,7 +660,7 @@ Comprehensive Git & GitHub CLI reference with categorized commands and usage exa
 
 <br />
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" width="100%" /></div>
 
 <div align="center">
 
