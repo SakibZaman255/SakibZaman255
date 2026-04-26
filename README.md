@@ -139,7 +139,7 @@ I specialize in building **scalable, production-ready web applications** using m
 <tr>
 <td width="50%">
 
-<h3>🏢 <a href="https://hajirabook.tecfiq.com">AccessPro</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
+<h3>🏢 <a href="https://hajirabook.tecfiq.com">HajiraBook</a> &nbsp;<img src="https://img.shields.io/badge/LIVE-✅-0D1117?style=flat-square&color=22c55e" /></h3>
 
 <p>Enterprise-grade Multi-Tenant Attendance & Payroll Management System with ZKTeco biometric device integration. Features ADMS protocol support, automated attendance tracking, role-based access control (RBAC), comprehensive payroll processing with tiered deductions, shift management, leave tracking, and real-time device synchronization.</p>
 
