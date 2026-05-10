@@ -67,36 +67,6 @@ I work across the entire stack — from designing pixel-perfect, responsive UIs 
 
 <br/>
 
-## 〉Specializations
-
-<div align="center">
-
-**🏢 Enterprise SaaS**
-<br/><sub>Multi-tenant architectures with complete data isolation, role-based access control, subscription & license management</sub>
-
-<br/>
-
-**🎓 EdTech & LMS**
-<br/><sub>Learning management systems, online assessments, OMR processing, student analytics & progress tracking</sub>
-
-<br/>
-
-**💰 FinTech Tools**
-<br/><sub>Financial tracking, payroll automation, billing systems, PDF invoicing, budget analytics & reporting</sub>
-
-<br/>
-
-**☁️ Cloud & DevOps**
-<br/><sub>Vercel, Ubuntu VPS, PM2, Docker, Nginx reverse proxy, CI/CD pipelines & production deployments</sub>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D97757&height=1&section=header" width="100%" />
-
-<br/>
-
 ## 〉Technology Stack
 
 <div align="center">
