@@ -447,7 +447,7 @@ Comprehensive, categorized Git & GitHub CLI command reference covering init, bra
 |:---|:---|:---:|
 | 🖥️ **SmartOMR Desktop** | Standalone Electron app for offline OMR processing with all SaaS features available locally | 🟡 In Dev |
 | 🏢 **HajiraBook v2** | Advanced leave workflows, mobile PWA, payslip templates, enhanced reporting | 🟢 Active |
-| 🎓 **Enterprise LMS** | Corporate training platform with certifications, cohorts & video streaming | 🟡 In Dev |
+| 🎓 **LMS** | Corporate training platform with certifications, cohorts & video streaming | 🟡 In Dev |
 
 <br/>
 
