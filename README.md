@@ -488,6 +488,6 @@ I'm currently **open to new projects** — freelance contracts, full-time roles,
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,25:0A3D62,50:1A6B9A,75:38A8D4,100:87CEEB&height=140&section=footer" width="100%" />
 
-**⭐ [sakibzaman255](https://github.com/sakibzaman255) · Dhaka, Bangladesh 🇧🇩 · Built with 💙**
+**⭐ [sakibzaman255](https://github.com/sakibzaman255) · Dhaka, Bangladesh 🇧🇩 · **
 
 </div>
