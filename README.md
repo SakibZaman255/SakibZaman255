@@ -57,7 +57,7 @@ I work across the entire stack — from designing pixel-perfect, responsive UIs 
 ![Live Apps](https://img.shields.io/badge/🌍_Live_Apps-8%2B_Production-D97757?style=for-the-badge&labelColor=0D1117)
 ![Clients](https://img.shields.io/badge/👥_Clients-80%2B_Active-D97757?style=for-the-badge&labelColor=0D1117)
 ![Sheets](https://img.shields.io/badge/📄_Processed-188K%2B_Sheets-D97757?style=for-the-badge&labelColor=0D1117)
-![Availability](https://img.shields.io/badge/🗓️_Availability-Mon–Sat-D97757?style=for-the-badge&labelColor=0D1117)
+![Availability](https://img.shields.io/badge/🗓️_Availability-Sat-Fri-D97757?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
