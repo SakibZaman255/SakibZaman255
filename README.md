@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0500,25:1A0A00,50:5C2A00,75:A34800,100:D97757&height=320&section=header&text=Sakib%20Zaman&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20SaaS%20Architect%20%E2%80%94%20Production%20Engineer&descAlignY=58&descSize=19&descColor=FFD4A8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0500,25:1A0A00,50:5C2A00,75:A34800,100:D97757&height=320&section=header&text=Rafiqul%20Hasan%20Sakib&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%94%20SaaS%20Architect%20%E2%80%94%20Production%20Engineer&descAlignY=58&descSize=18&descColor=FFD4A8" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=D97757&center=true&vCenter=true&width=700&height=60&lines=Next.js+%7C+React+%7C+TypeScript+%7C+Node.js+Engineer;Multi-Tenant+SaaS+%7C+RBAC+%7C+PostgreSQL+%7C+MySQL+%7C+MongoDB;188%2C000%2B+Sheets+Processed+%7C+80%2B+Active+Clients;Open+to+Freelance+%2B+Full-Time+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=D97757&center=true&vCenter=true&width=760&height=60&lines=Next.js+%7C+React+19+%7C+TypeScript+%7C+Node.js;Multi-Tenant+SaaS+%7C+RBAC+%7C+PostgreSQL+%7C+MySQL+%7C+MongoDB;188%2C000%2B+Sheets+Processed+%7C+80%2B+Paying+Institutions;12+Applications+Running+in+Production;Open+to+Freelance+%2B+Full-Time+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D97757?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibzaman255@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakibzaman255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D97757?style=for-the-badge&logo=vercel&logoColor=white)](https://sakib-zaman-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D97757?style=for-the-badge&logo=vercel&logoColor=white)](https://rafiqulhasansakib.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakibzaman255)
 
 <br/>
@@ -35,29 +35,32 @@
 
 ## 〉About Me
 
-I'm a **Full-Stack Web Developer** with **2+ years** of hands-on production experience, specializing in building **multi-tenant SaaS platforms**, enterprise-grade web applications, and scalable backend systems.
+I'm a **Full-Stack Software Engineer** building **multi-tenant SaaS platforms** that run in production and stay there. Two of the systems I lead — an OMR grading engine and a biometric HR platform — serve **80+ institutions** and **400+ tracked employees** between them. The rest I built solo, from a blank Prisma schema up to the interface people operate.
 
-I work across the entire stack — from designing pixel-perfect, responsive UIs to architecting robust databases and deploying production systems. My core strength lies in **translating complex business requirements** into clean, maintainable, and performant code that solves real problems for real users.
+**I learned business before I learned software.** Five years co-founding and running two retail companies came first — procurement, pricing, suppliers, staff, and the very specific education you get from a deadline that costs money. It's why I read a brief for the business problem first and the ticket second, and why I'd rather ask an awkward question in week one than find the answer in production.
+
+I don't just ship features. I own the Ubuntu boxes, read the logs and fix what breaks.
 
 **Currently focused on:**
 
-🏗️ **SaaS Architecture** — multi-tenancy, RBAC, credential isolation
-&nbsp;&nbsp;🖨️ **OMR & Document Processing** — computer vision, batch pipelines
-&nbsp;&nbsp;📊 **Analytics & Reporting** — dashboards, PDF generation, data pipelines
-&nbsp;&nbsp;🔐 **Auth & Security** — NextAuth, JWT, session management, encryption
+🏗️ **SaaS Architecture** — multi-tenancy, RBAC, tenant isolation at the schema
+&nbsp;&nbsp;🖨️ **Document Processing** — OMR pipelines, image processing, batch engines
+&nbsp;&nbsp;🔌 **Hardware Integration** — ZKTeco biometric terminals over the ADMS protocol
+&nbsp;&nbsp;🖥️ **Offline-First Desktop** — Electron, TWAIN scanners, local SQLite
+&nbsp;&nbsp;🔐 **Auth & Security** — NextAuth, JWT, RBAC guards, audit logging
 
-> *"I don't just write code — I build systems that scale, persist, and matter."*
+> *"I turn what the world already prints — an answer sheet, a fingerprint punch, a textbook chapter — into systems people trust with real work."*
 
 <br/>
 
 <div align="center">
 
-![Experience](https://img.shields.io/badge/💼_Experience-2%2B_Years-D97757?style=for-the-badge&labelColor=0D1117)
-![Projects](https://img.shields.io/badge/🚀_Projects-15%2B_Completed-D97757?style=for-the-badge&labelColor=0D1117)
-![Live Apps](https://img.shields.io/badge/🌍_Live_Apps-8%2B_Production-D97757?style=for-the-badge&labelColor=0D1117)
-![Clients](https://img.shields.io/badge/👥_Clients-80%2B_Active-D97757?style=for-the-badge&labelColor=0D1117)
+![Experience](https://img.shields.io/badge/💼_Software-3%2B_Years-D97757?style=for-the-badge&labelColor=0D1117)
+![Business](https://img.shields.io/badge/🏬_Business-5%2B_Years-D97757?style=for-the-badge&labelColor=0D1117)
+![Live Apps](https://img.shields.io/badge/🌍_In_Production-12_Apps-D97757?style=for-the-badge&labelColor=0D1117)
+![Clients](https://img.shields.io/badge/👥_Institutions-80%2B_Paying-D97757?style=for-the-badge&labelColor=0D1117)
 ![Sheets](https://img.shields.io/badge/📄_Processed-188K%2B_Sheets-D97757?style=for-the-badge&labelColor=0D1117)
-![Availability](https://img.shields.io/badge/🗓️_Availability-Sat-Fri-D97757?style=for-the-badge&labelColor=0D1117)
+![Uptime](https://img.shields.io/badge/📈_Uptime-99.9%25-D97757?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -73,9 +76,9 @@ I work across the entire stack — from designing pixel-perfect, responsive UIs 
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,tailwind,prisma&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,git,github,docker,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,electron,docker,vercel&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,linux,bash,nginx,ubuntu&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,nginx,bash,postman,figma&theme=dark" />
 
 </div>
 
@@ -83,14 +86,15 @@ I work across the entire stack — from designing pixel-perfect, responsive UIs 
 
 ### 🖥️ Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Fabric.js](https://img.shields.io/badge/Fabric.js-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=flat-square&logo=react&logoColor=white)
 
@@ -98,34 +102,36 @@ I work across the entire stack — from designing pixel-perfect, responsive UIs 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js API](https://img.shields.io/badge/Next.js_API_Routes-000000?style=flat-square&logo=next.js&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js API](https://img.shields.io/badge/Route_Handlers-000000?style=flat-square&logo=next.js&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js_v5-000000?style=flat-square&logo=next.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-D97757?style=flat-square&logoColor=white)
 ![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=flat-square&logoColor=white)
-![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logoColor=white)
+![ZKTeco ADMS](https://img.shields.io/badge/ZKTeco_ADMS-1a1a2e?style=flat-square&logoColor=white)
+![node-cron](https://img.shields.io/badge/node--cron-339933?style=flat-square&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ### 🗄️ Database & ORM
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Schema Design](https://img.shields.io/badge/Schema_Design-D97757?style=flat-square&logoColor=white)
-![Query Optimization](https://img.shields.io/badge/Query_Optimization-D97757?style=flat-square&logoColor=white)
+![Multi-Tenancy](https://img.shields.io/badge/Multi--Tenant_Schema-D97757?style=flat-square&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/Query_Optimisation-D97757?style=flat-square&logoColor=white)
 
 ### ☁️ DevOps & Tooling
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 <br/>
@@ -134,15 +140,15 @@ I work across the entire stack — from designing pixel-perfect, responsive UIs 
 
 <br/>
 
-## 〉Featured Projects
+## 〉Flagship Work
 
 <br/>
 
-### 🏆 SmartOMR — Enterprise OMR Processing SaaS Platform
+### 🏆 SmartOMR — Commercial OMR Processing SaaS
 
 <div align="center">
 
-[![Visit SmartOMR](https://img.shields.io/badge/🌐_Visit_Live_Site-smartomr.cloud-D97757?style=for-the-badge&labelColor=0D1117)](https://smartomr.cloud)
+[![Visit SmartOMR](https://img.shields.io/badge/🌐_Live-smartomr.cloud-D97757?style=for-the-badge&labelColor=0D1117)](https://smartomr.cloud)
 ![Status](https://img.shields.io/badge/STATUS-🟢_PRODUCTION-00C853?style=for-the-badge&labelColor=0D1117)
 ![Clients](https://img.shields.io/badge/CLIENTS-80%2B_Institutions-3B82F6?style=for-the-badge&labelColor=0D1117)
 ![Processed](https://img.shields.io/badge/PROCESSED-188K%2B_Sheets-F59E0B?style=for-the-badge&labelColor=0D1117)
@@ -151,22 +157,26 @@ I work across the entire stack — from designing pixel-perfect, responsive UIs 
 
 <br/>
 
-**SmartOMR** is a production-grade, revenue-generating SaaS platform for **automated OMR (Optical Mark Recognition) exam processing**. It enables educational institutions to completely digitize their examination workflow — from designing answer sheets to generating detailed performance analytics.
+Institutions still grade multiple-choice exams by hand, one sheet at a time. SmartOMR takes the scanned stack instead: it detects every filled bubble with an image pipeline, grades against a configurable key, and returns per-student PDFs before the invigilator has left the hall.
 
-Used by 80+ institutions and coaching centers across Bangladesh, having processed over **188,000 answer sheets** in production — reducing manual grading time by **95%**.
+> **The hard part was never the reading** — it was making one codebase serve eighty institutions that each design their own sheet, run their own sets, and must never see each other's data.
 
-**✨ Core Features**
+**✨ What it does**
 
-- 🎨 **Visual OMR Designer** — Fabric.js canvas-based template creator with drag-and-drop bubble placement
-- 🤖 **AI Bubble Detection** — Computer vision pipeline for automated answer extraction from scanned sheets
-- ⚡ **Batch Processing Engine** — Process hundreds of sheets simultaneously with real-time progress tracking
-- 🔢 **Multi-Set Support** — Auto-detect and grade question Sets A, B, C, D, E
-- 📊 **Smart Grading** — Configurable scoring: grace questions, negative marking, custom per-question weights
-- 🏢 **Multi-Tenant SaaS** — Complete data isolation, RBAC, per-organization settings
-- 💳 **Credit System** — License and OMR balance management with usage tracking
-- 📈 **Analytics Dashboard** — Batch statistics, student performance reports, pass/fail analysis
-- 📄 **PDF Reports** — Auto-generated per-student and batch-level result sheets
-- 🔐 **Activity Logging** — Full audit trail, session tracking, admin monitoring
+- 🎨 **Visual OMR Designer** — Fabric.js canvas where schools lay out their own bubble grids, corner anchors and answer regions, at A4 or A5
+- 🤖 **Image-processing pipeline** — Canvas API + Sharp, resolving marks under skew, smudge and inconsistent scan exposure
+- ⚡ **Batch engine** — 500+ sheets per run with live progress and automatic set detection across Sets A–E
+- 🔢 **Configurable scoring** — negative marking, grace questions, per-question weights, decimal precision
+- 🏢 **Multi-tenant MySQL** — per-organisation isolation, RBAC, credit balances, license management, full audit trail
+- 📄 **Server-side PDFs** — per-student and per-batch result sheets, plus XLSX export and Chart.js analytics
+- 🗄️ **Operations** — scheduled database backups and an admin-only operations surface
+
+**🔬 Engineering challenges solved**
+
+- Detecting anchor marks on sheets that are torn, folded or photocopied faint
+- Mapping a scanned sheet back to the right student *and* question set, every time
+- Concurrency — two operators uploading into the same batch without corrupting either run
+- Keeping 80+ institutions on one codebase fully isolated at the schema
 
 **📈 Impact**
 
@@ -175,138 +185,174 @@ Used by 80+ institutions and coaching centers across Bangladesh, having processe
 | Active Institutions | 80+ |
 | Answer Sheets Processed | 188,000+ |
 | Grading Time Saved | 95% |
-| Revenue Status | Live & Generating |
-| Uptime | 99.9% |
-
-**🛠️ Tech Stack**
+| Uptime (self-managed VPS) | 99.9% |
 
 ```yaml
-Frontend:   Next.js (App Router) · React · Tailwind CSS · Shadcn/ui · Fabric.js · Recharts
-Backend:    Next.js API Routes · Node.js · NextAuth.js · Prisma ORM · Sharp · Canvas API
-Database:   MySQL — Multi-tenant schema architecture
-Deploy:     Ubuntu VPS · PM2 · Nginx · Custom SSL
-Security:   RBAC · Data isolation · Session logging · Rate limiting · Encrypted credentials
+Frontend:   Next.js 16 · React · Tailwind CSS · Fabric.js · Chart.js
+Backend:    Route Handlers · Node.js · NextAuth · Prisma ORM · Sharp · Canvas API
+Database:   MySQL — multi-tenant schema
+Deploy:     Ubuntu VPS · PM2 · Nginx · custom SSL
+Security:   RBAC · tenant isolation · rate limiting · encrypted credentials
 ```
 
 <br/>
 
+---
+
+<br/>
+
+### 🏢 HajiraPro — HR, Attendance & Payroll Platform
+
+<div align="center">
+
+[![Visit HajiraPro](https://img.shields.io/badge/🌐_Live-hajirapro.com-D97757?style=for-the-badge&labelColor=0D1117)](https://hajirapro.com)
+![Status](https://img.shields.io/badge/STATUS-🟢_ACTIVE-00C853?style=for-the-badge&labelColor=0D1117)
+![Employees](https://img.shields.io/badge/TRACKING-400%2B_Employees-3B82F6?style=for-the-badge&labelColor=0D1117)
+![Offices](https://img.shields.io/badge/ACROSS-4_Offices-F59E0B?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+Attendance data lives inside biometric hardware, not the browser. HajiraPro runs **its own ADMS server** that ZKTeco fingerprint terminals push to directly, so punches from four offices land in the payroll engine the moment a finger touches the sensor.
+
+> **Payroll is where a rounding error becomes someone's rent.** Every rule — overtime bands, weekend and holiday handling, late grace, leave accrual — is modelled explicitly and covered by tests, because "roughly right" is not a payroll outcome.
+
+**✨ What it does**
+
+- 🔌 **Dedicated ADMS server process** — a terse device push protocol, not a REST API, so the parser and handshake are hand-built
+- 💰 **Payroll engine** — overtime, shift rules, weekend/holiday logic, leave approvals, payslip export
+- 🔁 **Duplicate & out-of-order punch reconciliation** across offices with flaky connectivity
+- 🏢 **Tenant isolation audited route by route** — not assumed
+- ⏰ **node-cron nightly jobs** reconciling absences against weekends and holidays
+- 🧪 **Jest suite** covering the attendance and payroll rules that money depends on
+- 📊 Role-based dashboards — Admin, HR, Employee — with Excel and PDF export
+
+`Next.js 16` `TypeScript` `PostgreSQL` `Prisma` `NextAuth v5` `node-zklib` `node-cron` `Jest`
+
+<br/>
+
+---
+
+<br/>
+
+### 📚 ICT Shikhi — Bilingual HSC ICT Learning Platform
+
+<div align="center">
+
+[![Visit ICT Shikhi](https://img.shields.io/badge/🌐_Live-hscict.vercel.app-D97757?style=for-the-badge&labelColor=0D1117)](https://hscict.vercel.app/bn)
+![Status](https://img.shields.io/badge/STATUS-🟢_ACTIVE-00C853?style=for-the-badge&labelColor=0D1117)
+![Sections](https://img.shields.io/badge/SYLLABUS-145_Sections-3B82F6?style=for-the-badge&labelColor=0D1117)
+![Questions](https://img.shields.io/badge/QUESTIONS-1%2C639-F59E0B?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+The entire NCTB HSC ICT syllabus — **all 145 sections across six chapters** — rewritten as structured bilingual content, then given something to look at. Every idea that's hard to picture gets a worked example, a textbook figure, or an animation that shows the mechanism instead of asserting it.
+
+> **Understand ICT, don't just memorise it.** That tagline is the architecture: content is typed data, not markup, so one `Topic` object feeds the lesson page, the search index, the quiz pool, the board exam paper, the revision sheet and progress tracking at once.
+
+**✨ What it does**
+
+- 🌏 **Fully bilingual** — every content string is a `{ en, bn }` value resolved by the `/[locale]/` route segment
+- 🧠 **1,639 questions from a single pool** — Quick Check, practice quiz, recall games and the board MCQ paper can never drift out of sync
+- 🔬 **45 interactive labs & animated explainers**, lazily imported through a registry so a topic downloads only what it shows
+- 📝 **Board exam simulator** — a real MCQ paper with an OMR sheet and a clock, plus 95 hand-written creative questions with model answers
+- 🎯 97 progressive challenges · 181 flashcards · 339-term glossary · printable revision sheets
+- ⌘ **⌘K search** over every topic, with on-device progress tracking — no account required
+- ✅ `npm run validate` self-checks the content — a topic pointing at a missing lab fails before the build does
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `i18n` `Canvas API`
+
+<br/>
+
+---
+
+<br/>
+
+### 🗂️ PROGRESS MIS — Enterprise MIS for Swisscontact
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/STATUS-🟢_ACTIVE-00C853?style=for-the-badge&labelColor=0D1117)
+![Roles](https://img.shields.io/badge/RBAC-9_System_Roles-3B82F6?style=for-the-badge&labelColor=0D1117)
+![Matrix](https://img.shields.io/badge/PERMISSIONS-20_×_12_Matrix-F59E0B?style=for-the-badge&labelColor=0D1117)
+![Internal](https://img.shields.io/badge/DEPLOYMENT-Internal-6B7280?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+A management information system for Swisscontact's **PROGRESS** programme — promoting green growth in Bangladesh's ready-made garments sector. It tracks factory interventions, training programmes, partner contracts and ESG metrics through a four-stage approval chain, across nine distinct roles.
+
+> **Development-sector reporting is a permissions problem wearing a data-entry costume.** A local consultancy submits; the lead consultancy reviews; the programme team approves; the monitoring team validates. Every actor sees a different slice of the same record.
+
+**✨ What it does**
+
+- 🔐 **Nine system roles** over a `{resource}.{action}` permission matrix — 20 resources × 12 actions, wildcard-aware, enforced through one API guard
+- 🔄 **Six-stage submission workflow** (draft → CSP → programme → MRM → approved, with rejection and resubmission) and full stage-by-stage history
+- 🧩 **Dynamic form builder** — ten field types, calculated fields with a formula language, and Excel template import that infers the schema from a spreadsheet
+- 🌳 **Five-level intervention hierarchy** imported from Excel with merged-cell handling
+- 📎 **Contract management** — attachments, status history, payment schedules, record locking after approval
+- 💬 **Field-level review comments** so a reviewer can query one cell rather than reject a whole submission
+- 🛡️ **Security activity logging** with device, browser and IP parsing on every authentication event
+
+`Next.js 16` `TypeScript` `MySQL` `Prisma` `NextAuth` `shadcn/ui` `TanStack Table` `TipTap`
+
+<br/>
+
+---
+
+<br/>
+
+### 🖥️ SmartOMR Desktop — Offline Electron Build
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/STATUS-🟢_ACTIVE-00C853?style=for-the-badge&labelColor=0D1117)
+![Version](https://img.shields.io/badge/VERSION-v4.5-3B82F6?style=for-the-badge&labelColor=0D1117)
+![Solo](https://img.shields.io/badge/OWNERSHIP-Built_Solo-F59E0B?style=for-the-badge&labelColor=0D1117)
+![Offline](https://img.shields.io/badge/CONNECTION-None_Required-6B7280?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+Plenty of institutions that need OMR grading have a scanner and no reliable internet. SmartOMR Desktop is the whole pipeline — designer, detection, scoring, PDF reports — packaged as an Electron application that talks to a **TWAIN scanner directly** and stores everything in a local SQLite database.
+
+> **Built solo, start to finish.** It isn't a thin wrapper: the desktop build swaps MySQL for SQLite behind a second Prisma client, drives the scanner over a native TWAIN binding, and ships `sharp` and `canvas` as rebuilt native modules inside the installer.
+
+**🔬 Engineering challenges solved**
+
+- Native modules and Electron — `sharp` and `canvas` won't load from inside an ASAR archive without explicit unpacking and a rebuild against Electron's own headers
+- Running a Next.js application as a desktop process with no server to call
+- Two Prisma clients, two databases, one set of domain models
+- Driving a decades-old TWAIN C API from JavaScript
+- Machine-bound licensing that works with no network at all
+
+`Electron` `Next.js` `TypeScript` `SQLite` `Prisma` `TWAIN` `Sharp` `electron-builder`
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D97757&height=1&section=header" width="100%" />
 
 <br/>
 
-### 💼 More Production Applications
+## 〉More Production Applications
 
 <br/>
 
-#### 🏢 HajiraBook — HR, Attendance & Payroll SaaS
-
-[![Live](https://img.shields.io/badge/LIVE-✅_Production-00C853?style=flat-square&labelColor=0D1117)](https://hajirabook.tecfiq.com)
-[![Visit](https://img.shields.io/badge/hajirabook.tecfiq.com-D97757?style=flat-square)](https://hajirabook.tecfiq.com)
-
-Enterprise multi-tenant HR management platform with deep **ZKTeco biometric device integration** via the ADMS protocol for real-time attendance syncing.
-
-**Key Capabilities:**
-- Live biometric device sync (ZKTeco ADMS protocol)
-- Automated payroll calculation & processing
-- Shift management with flexible schedule support
-- Multi-organization tenant isolation with RBAC
-- Leave management & approval workflows
-- Role-based dashboards — Admin, HR, Employee
-- Exportable payslips & reports
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `RBAC` · **Managing 500+ employees across organizations**
-
----
-
-#### 💰 FlowTrack — Personal Finance Manager
-
-[![Live](https://img.shields.io/badge/LIVE-✅_Production-00C853?style=flat-square&labelColor=0D1117)](https://flow-track-nu.vercel.app)
-[![Visit](https://img.shields.io/badge/flow--track--nu.vercel.app-D97757?style=flat-square)](https://flow-track-nu.vercel.app)
-
-Comprehensive personal finance app with **11 distinct feature modules** — complete money management at zero cost.
-
-**Feature Modules:**
-- Transaction tracking (income & expenses)
-- Loan management & repayment tracking
-- Savings goals with progress visualization
-- 6-month analytics & trend reports
-- PDF statement export & financial calendar
-- Budget limiter with alerts · 6 UI themes
-
-`Next.js` `TypeScript` `MongoDB` `Recharts` `JWT` · **100% Free — no paywalls**
-
----
-
-#### ⚖️ Legal Case Management System
-
-[![Live](https://img.shields.io/badge/LIVE-✅_Production-00C853?style=flat-square&labelColor=0D1117)](https://legal-case-sage.vercel.app)
-[![Visit](https://img.shields.io/badge/legal--case--sage.vercel.app-D97757?style=flat-square)](https://legal-case-sage.vercel.app)
-
-Multi-tenant SaaS for law firms — manages the full case lifecycle with secure, isolated data per organization.
-
-**Key Capabilities:**
-- Case creation, tracking & status management
-- Hearing date scheduling & deadline alerts
-- Client matter management & document notes
-- Team collaboration with access controls
-- Complete audit history per case
-
-`Next.js` `TypeScript` `MongoDB` `Prisma` `NextAuth`
-
----
-
-#### 🎓 Next.js Learning Hub — LMS Platform
-
-[![Live](https://img.shields.io/badge/LIVE-✅_Production-00C853?style=flat-square&labelColor=0D1117)](https://nextjs-learning-hub.vercel.app)
-[![Visit](https://img.shields.io/badge/nextjs--learning--hub.vercel.app-D97757?style=flat-square)](https://nextjs-learning-hub.vercel.app)
-
-Full-featured Learning Management System built from scratch — supports the complete lifecycle of online education.
-
-**Key Capabilities:**
-- Course creation & curriculum management
-- Student enrollment & access control
-- Lesson-by-lesson progress tracking
-- Interactive assessments & quizzes
-- Admin analytics dashboard
-- Instructor & student role separation
-
-`Next.js` `TypeScript` `MongoDB` `Prisma`
-
----
-
-#### 📝 Online Assessment Platform
-
-[![Live](https://img.shields.io/badge/LIVE-✅_Production-00C853?style=flat-square&labelColor=0D1117)](https://online-assessment-platform-one.vercel.app)
-[![Visit](https://img.shields.io/badge/online--assessment--platform.vercel.app-D97757?style=flat-square)](https://online-assessment-platform-one.vercel.app)
-
-Digital MCQ examination system for institutions moving assessments fully online with automated evaluation.
-
-**Key Capabilities:**
-- Timed MCQ exam creation & delivery
-- Real-time automated result calculation
-- Detailed per-question performance breakdown
-- Student result history & analytics
-- Role-based dashboards — Admin, Examiner, Student
-
-`Next.js` `TypeScript` `MongoDB` `Prisma`
-
----
-
-#### 🧾 Jannati Traders — Business Billing System
-
-[![Live](https://img.shields.io/badge/LIVE-✅_Production-00C853?style=flat-square&labelColor=0D1117)](https://jannati-traders-billing.vercel.app)
-[![Visit](https://img.shields.io/badge/jannati--traders--billing.vercel.app-D97757?style=flat-square)](https://jannati-traders-billing.vercel.app)
-
-End-to-end billing and invoice management system — fully replacing manual paper-based processes for a local trading business.
-
-**Key Capabilities:**
-- Product catalog with inventory management
-- Customer records & purchase history
-- Invoice & bill generation with PDF export
-- Sales analytics & revenue dashboard
-- Payment tracking & outstanding management
-
-`Next.js` `TypeScript` `MongoDB` `Prisma`
+| Project | What it is | Stack | Live |
+|:---|:---|:---|:---:|
+| 🏛️ **BBS Pay Commission 2025** | Nationwide opinion survey portal for the **Bangladesh Bureau of Statistics**. Multi-step resumable forms, strict server-side validation, rate limiting and audit logging — delivered against a fixed government timeline. Runs in government at `opinionsurvey.paycommission2025.gov.bd` | `Next.js` `TypeScript` `PostgreSQL` | [Visit](https://v0-bbss-urvey-ft.vercel.app/) |
+| 🧮 **AlgoViz** | 155+ problems from the NeetCode 150, each played back step by step with play/pause/reset — the pointer moving, the window sliding, the tree unfolding, alongside the code and complexity. 17 categories, Bengali and English | `Next.js 16` `React 19` `Zustand` `Framer Motion` | [Visit](https://algo-viz-peach.vercel.app/) |
+| 🕌 **NurApp** | Offline-first Islamic companion PWA. **No backend, no database, no account, no tracking, no API keys.** Prayer times from trigonometry, Qibla from a bearing calculation, Hijri from tabular conversion, all scripture bundled. Hand-written service worker | `Next.js 15` `TypeScript` `Zustand` `adhan.js` | [Visit](https://prayertime-two.vercel.app/) |
+| 💰 **FlowTrack** | Eleven finance modules that usually sit behind a subscription — transactions, loans, savings goals, budget limits, six-month analytics, PDF statements — given away free | `Next.js` `MongoDB` `Recharts` `JWT` | [Visit](https://flow-track-nu.vercel.app) |
+| ⚖️ **Legal Case Management** | Three law firms, one deployment, zero shared rows. Full case lifecycle — hearings, deadlines, client matters and a per-case audit history | `Next.js` `MongoDB` `Prisma` `NextAuth` | [Visit](https://legal-case-sage.vercel.app) |
+| 🎓 **Next.js Learning Hub** | A full Next.js curriculum taught in Bengali — the resource I wanted when I was learning, for developers who shouldn't have to learn the framework in a second language first | `Next.js` `MongoDB` `Prisma` | [Visit](https://nextjs-learning-hub.vercel.app) |
+| 🧾 **Jannati Traders** | Replaced a trading business's carbon-copy invoice book with a product catalogue, customer ledger, PDF invoicing and a sales dashboard that actually gets opened | `Next.js` `MongoDB` `Prisma` | [Visit](https://jannati-traders-billing.vercel.app) |
+| 📝 **Online Assessment Platform** | The digital counterpart to SmartOMR — timed MCQ exams in the browser with automatic scoring and a per-question breakdown the moment a student submits | `Next.js` `MongoDB` `Prisma` | [Visit](https://online-assessment-platform-one.vercel.app) |
 
 <br/>
 
@@ -314,40 +360,15 @@ End-to-end billing and invoice management system — fully replacing manual pape
 
 <br/>
 
-### 🛠️ Developer Tools & Open Source
+## 〉Developer Tools
 
 <br/>
 
-#### 🗂️ Schema Designer
-
-[![Live](https://img.shields.io/badge/LIVE-Production-00C853?style=flat-square&labelColor=0D1117)](https://schema-designer-eta.vercel.app)
-[schema-designer-eta.vercel.app](https://schema-designer-eta.vercel.app)
-
-Visual database schema design tool. Draw entity-relationship diagrams on a canvas, define table columns, set data types, create relationships, and export ready-to-use **PostgreSQL DDL** or **Prisma schema** files.
-
-`Next.js` `TypeScript` `Canvas API`
-
----
-
-#### 📖 Prisma for Dummies
-
-[![Live](https://img.shields.io/badge/LIVE-Production-00C853?style=flat-square&labelColor=0D1117)](https://prisma-for-dummies.vercel.app)
-[prisma-for-dummies.vercel.app](https://prisma-for-dummies.vercel.app)
-
-Interactive Prisma ORM documentation & reference guide. Covers models, relations, queries, mutations, migrations, and real-world patterns with copyable code examples.
-
-`Next.js` `TypeScript` `MDX`
-
----
-
-#### 🖥️ GitHub Command Guide
-
-[![Live](https://img.shields.io/badge/LIVE-Production-00C853?style=flat-square&labelColor=0D1117)](https://github-command-guideline.vercel.app)
-[github-command-guideline.vercel.app](https://github-command-guideline.vercel.app)
-
-Comprehensive, categorized Git & GitHub CLI command reference covering init, branching, merging, rebasing, stashing, remote operations, and advanced workflows.
-
-`Next.js` `TypeScript` `Tailwind CSS`
+| Tool | What it does | Live |
+|:---|:---|:---:|
+| 🗂️ **Schema Designer** | Draw an ER diagram on canvas, define columns and relations, export working PostgreSQL DDL or a Prisma schema | [Visit](https://schema-designer-eta.vercel.app) |
+| 📖 **Prisma for Dummies** | The Prisma reference I wanted when I started — models, relations, migrations and real query patterns, all copyable | [Visit](https://prisma-for-dummies.vercel.app) |
+| 🖥️ **GitHub Command Guide** | Categorised Git & GitHub CLI reference covering branching, rebasing, stashing and the recovery commands you need at 2am | [Visit](https://github-command-guideline.vercel.app) |
 
 <br/>
 
@@ -359,25 +380,25 @@ Comprehensive, categorized Git & GitHub CLI command reference covering init, bra
 
 ### 🔧 Technical Depth
 
-- ✅ **Production-hardened** — all major projects live, serving real users
-- ✅ **Multi-tenant architecture** expert with full data isolation patterns
-- ✅ **Prisma ORM** mastery across MySQL, PostgreSQL, and MongoDB
-- ✅ **Computer vision** integration (OMR, image processing, Canvas API)
-- ✅ **Authentication systems** — NextAuth, JWT, sessions, RBAC, guards
-- ✅ **Performance optimization** — query tuning, indexing, caching strategies
-- ✅ **API design** — RESTful conventions, middleware, error handling patterns
-- ✅ **Real-time features** — live updates, progress tracking, notifications
+- ✅ **Production-hardened** — every project listed is deployed and in use by real organisations
+- ✅ **Multi-tenant architecture** — isolation designed into the schema, enforced through RBAC guards, every access logged
+- ✅ **Hardware integration** — ZKTeco biometric terminals over ADMS, TWAIN scanners over a native binding
+- ✅ **Image processing at scale** — OMR detection under skew, smudge and damaged anchors
+- ✅ **Prisma across four databases** — MySQL, PostgreSQL, MongoDB and SQLite
+- ✅ **Offline-first engineering** — Electron packaging, native module rebuilds, service workers, zero-backend PWAs
+- ✅ **I run the servers** — Ubuntu, Nginx, PM2, SSL, backups and the 2am log reading
+- ✅ **Performance work** — query tuning, indexing, batch pipelines, bundle discipline
 
 ### 🤝 Professional Standards
 
-- ✅ **On-time delivery** — agile workflow with milestone-based updates
+- ✅ **On-time delivery** — milestone-based updates you can see
 - ✅ **< 2 hour response** during GMT+6 business hours
-- ✅ **Clean architecture** — separation of concerns, DRY, SOLID principles
-- ✅ **Full documentation** — README, API docs, deployment guides included
+- ✅ **Read the domain before the ticket** — a grace question, a shift crossing midnight, a hearing deadline; the domain has rules the brief never mentions
+- ✅ **Clean architecture** — separation of concerns, honest naming, comments that explain *why*
+- ✅ **Full documentation** — README, API docs and deployment guides on handoff
 - ✅ **Git discipline** — meaningful commits, feature branches, PR-based workflow
-- ✅ **Transparent communication** — daily/weekly progress reports
+- ✅ **Security conscious** — input validation, RBAC, rate limiting, encrypted credentials, env hygiene
 - ✅ **Post-delivery support** — bug fixes and guidance after handoff
-- ✅ **Security conscious** — OWASP basics, input validation, env management
 
 <br/>
 
@@ -401,7 +422,7 @@ Comprehensive, categorized Git & GitHub CLI command reference covering init, bra
 
 **📈 Contribution Activity Graph**
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakibzaman255&bg_color=0D1117&color=D97757&line=D97757&point=FF9966&area=true&hide_border=true&custom_title=Sakib%27s%20Contribution%20Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakibzaman255&bg_color=0D1117&color=D97757&line=D97757&point=FF9966&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 <br/>
 
@@ -431,7 +452,7 @@ Comprehensive, categorized Git & GitHub CLI command reference covering init, bra
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sakibzaman255/sakibzaman255/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </picture>
 
-<sub>⚙️ Enable snake: add <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo → <code>sakibzaman255/sakibzaman255</code></sub>
+<sub>⚙️ Enable snake: add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo → <code>sakibzaman255/sakibzaman255</code></sub>
 
 </div>
 
@@ -443,11 +464,11 @@ Comprehensive, categorized Git & GitHub CLI command reference covering init, bra
 
 ## 〉Currently Building
 
-| Project | Description | Status |
+| Project | What's next | Status |
 |:---|:---|:---:|
-| 🖥️ **SmartOMR Desktop** | Standalone Electron app for offline OMR processing with all SaaS features available locally | 🟡 In Dev |
-| 🏢 **HajiraBook v2** | Advanced leave workflows, mobile PWA, payslip templates, enhanced reporting | 🟢 Active |
-| 🎓 **LMS** | Corporate training platform with certifications, cohorts & video streaming | 🟡 In Dev |
+| 📚 **ICT Shikhi — Chapter 6** | Placing the remaining textbook figures, adding the last labs, then a board-paper generator per chapter | 🟢 Active |
+| 🏢 **HajiraPro v2** | Advanced leave workflows, a mobile PWA for punch-in, configurable payslip templates | 🟢 Active |
+| 🖥️ **SmartOMR Desktop v5** | Multi-scanner batching, and a sync path that reconciles an offline machine back into the cloud tenant | 🟡 In Dev |
 
 <br/>
 
@@ -459,26 +480,27 @@ Comprehensive, categorized Git & GitHub CLI command reference covering init, bra
 
 <div align="center">
 
-### Ready to Build Something That Matters?
+### Tell me what's breaking, or what you want built.
 
-I'm currently **open to new projects** — freelance contracts, full-time roles, and open-source collaborations.
+I'm currently **open to new work** — freelance contracts, full-time roles, and open-source collaboration.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Schedule_Free_Consultation-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sakibzaman255@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sakibzaman255@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/sakibzaman255/)
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-D97757?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://smartomr.cloud)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-D97757?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://rafiqulhasansakib.vercel.app/)
 
 <br/>
 
 | | Details |
 |:---:|:---|
 | 📍 | Dhaka, Bangladesh 🇧🇩 |
-| 🕐 | GMT+6 · Mon–Sat · 9 AM – 10 PM |
+| 🕐 | GMT+6 · Sun–Fri · 9 AM – 10 PM |
 | ⚡ | Response within 2 hours during business hours |
-| 🌐 | Available for remote projects worldwide |
+| 🌐 | Available for remote work worldwide |
 | 🏙️ | On-site available within Dhaka |
-| 🗣️ | English (Fluent) · Bengali (Native) |
+| 🗣️ | English (fluent) · Bengali (native) |
+| 🎓 | BSc Computer Science & Engineering — North South University |
 | ✅ | Freelance · Full-Time · Open Source |
 
 </div>
@@ -486,8 +508,8 @@ I'm currently **open to new projects** — freelance contracts, full-time roles,
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,25:0A3D62,50:1A6B9A,75:38A8D4,100:87CEEB&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0500,25:1A0A00,50:5C2A00,75:A34800,100:D97757&height=140&section=footer" width="100%" />
 
-**⭐ [sakibzaman255](https://github.com/sakibzaman255) · Dhaka, Bangladesh 🇧🇩 · **
+**⭐ [sakibzaman255](https://github.com/sakibzaman255) · Dhaka, Bangladesh 🇧🇩**
 
 </div>
