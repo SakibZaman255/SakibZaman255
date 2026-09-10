@@ -17,6 +17,8 @@
 
 I'd rather show evidence than claim skills. Everything below is running in production.
 
+<div align="center">
+
 | | |
 |---:|:---|
 | **188,000+** | answer sheets processed by SmartOMR |
@@ -26,6 +28,8 @@ I'd rather show evidence than claim skills. Everything below is running in produ
 | **400+** | employees tracked across 4 offices |
 | **1,639** | exam questions authored, bilingual |
 | **3+ yrs** | in software · **5+ yrs** running two retail businesses before it |
+
+</div>
 
 ---
 
@@ -38,6 +42,36 @@ I build **multi-tenant SaaS that runs in production and stays there.** Two of th
 I don't just ship features. I own the Ubuntu boxes, read the logs, and fix what breaks.
 
 > *I turn what the world already prints — an answer sheet, a fingerprint punch, a textbook chapter — into systems people trust with real work.*
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,nodejs,express,tailwind,prisma,jest&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,electron,docker,nginx,linux&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,bash,postman,figma,html,css,vscode&theme=dark" />
+
+</div>
+
+> Listed because I've shipped production code with it — not because I read the docs once.
+
+<div align="center">
+
+| | |
+|:---|:---|
+| **Languages** | TypeScript · JavaScript (ES6+) · SQL · HTML5 · CSS3 |
+| **Frontend** | Next.js 16 (App Router) · React 19 · Tailwind CSS · shadcn/ui · Zustand · GSAP · Framer Motion · Fabric.js · Canvas API · Chart.js · Recharts · TanStack Table · TipTap · MDX · i18n |
+| **Backend & APIs** | Node.js · Express · Route Handlers · REST design · NextAuth v5 · JWT & sessions · Middleware · Sharp · node-cron · Jest |
+| **Database & ORM** | PostgreSQL · MySQL · MongoDB · SQLite · Redis · Prisma ORM · Schema design · Query optimisation · Indexing |
+| **Desktop & Hardware** | Electron · electron-builder · TWAIN scanners · node-zklib · ZKTeco ADMS · Service Workers · Offline-first PWAs |
+| **DevOps** | Ubuntu VPS · Nginx · PM2 · Docker · Vercel · CI/CD · SSL · Git & PR flow · Bash · Postman · Figma |
+| **Architecture** | Multi-tenancy · RBAC & guards · Tenant isolation · Audit logging · Rate limiting · Batch pipelines · Image processing · Offline-first |
+
+</div>
 
 ---
 
@@ -123,6 +157,8 @@ The whole grading pipeline packaged as an Electron application that talks to a *
 
 ## Also in production
 
+<div align="center">
+
 | Project | What it is | Stack |
 |:---|:---|:---|
 | **[BBS Pay Commission 2025](https://v0-bbss-urvey-ft.vercel.app/)** | Nationwide opinion survey for the **Bangladesh Bureau of Statistics** — multi-step resumable forms, strict server-side validation, rate limiting, audit logging. Runs in government at `opinionsurvey.paycommission2025.gov.bd` | `Next.js` `PostgreSQL` |
@@ -134,7 +170,11 @@ The whole grading pipeline packaged as an Electron application that talks to a *
 | **[Jannati Traders](https://jannati-traders-billing.vercel.app)** | Replaced a trading business's carbon-copy invoice book with a catalogue, ledger, PDF invoicing and a sales dashboard that gets opened | `Next.js` `MongoDB` `Prisma` |
 | **[Online Assessment Platform](https://online-assessment-platform-one.vercel.app)** | The digital counterpart to SmartOMR — timed MCQ exams with automatic scoring and a per-question breakdown on submit | `Next.js` `MongoDB` `Prisma` |
 
+</div>
+
 ## Built for other developers
+
+<div align="center">
 
 | Tool | What it does |
 |:---|:---|
@@ -142,30 +182,13 @@ The whole grading pipeline packaged as an Electron application that talks to a *
 | **[Prisma for Dummies](https://prisma-for-dummies.vercel.app)** | The Prisma reference I wanted when I started — models, relations, migrations and real query patterns, all copyable |
 | **[GitHub Command Guide](https://github-command-guideline.vercel.app)** | Categorised Git & GitHub CLI reference — branching, rebasing, stashing, and the recovery commands you need at 2am |
 
----
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,prisma,tailwind,electron&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,docker,nginx,linux&theme=dark" />
-
 </div>
-
-Listed because I've shipped production code with it — not because I read the docs once.
-
-| | |
-|:---|:---|
-| **Build** | TypeScript · Next.js 16 · React 19 · Node.js · Express · Prisma · PostgreSQL · MySQL · MongoDB · SQLite · Redis · Tailwind CSS |
-| **Craft** | Fabric.js · Canvas API · Sharp · Chart.js · Recharts · GSAP · Framer Motion · shadcn/ui · Figma |
-| **Ship** | Ubuntu VPS · Nginx · PM2 · Docker · Vercel · Git · CI/CD · electron-builder · Postman |
-| **Architecture** | Multi-tenancy · RBAC & guards · Tenant isolation · Audit logging · Rate limiting · ZKTeco ADMS · Batch pipelines · Image processing · Offline-first |
 
 ---
 
 ## How I work
+
+<div align="center">
 
 | | |
 |:---|:---|
@@ -178,15 +201,21 @@ Listed because I've shipped production code with it — not because I read the d
 | **Read the domain first** | A grace question, a shift crossing midnight, a hearing deadline — the domain has rules the brief never mentions |
 | **Replies in under 2 hours** | Milestone updates you can see, documentation on handoff, support after it |
 
+</div>
+
 ---
 
 ## Currently building
+
+<div align="center">
 
 | | | |
 |:---|:---|:---:|
 | **ICT Shikhi — chapter 6** | Remaining textbook figures, the last labs, then a board-paper generator per chapter | 🟢 Active |
 | **HajiraPro v2** | Advanced leave workflows, a mobile PWA for punch-in, configurable payslip templates | 🟢 Active |
 | **SmartOMR Desktop v5** | Multi-scanner batching, and a sync path reconciling an offline machine back into the cloud tenant | 🟡 In dev |
+
+</div>
 
 ---
 
@@ -206,6 +235,8 @@ Listed because I've shipped production code with it — not because I read the d
 
 Open to freelance contracts, full-time roles and open-source collaboration.
 
+<div align="center">
+
 | | |
 |:---|:---|
 | **Email** | [sakibzaman255@gmail.com](mailto:sakibzaman255@gmail.com) |
@@ -216,7 +247,12 @@ Open to freelance contracts, full-time roles and open-source collaboration.
 | **Languages** | English (fluent) · Bengali (native) |
 | **Education** | BSc Computer Science & Engineering — North South University |
 
+</div>
+
 <div align="center">
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8C3A08,100:D97757&height=3&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:1A0A00,75:8C3A08,100:D97757&height=170&section=footer&text=Let%27s%20build%20something%20that%20runs.&fontSize=26&fontColor=FFFFFF&fontAlignY=72&desc=Rafiqul%20Hasan%20Sakib%20%C2%B7%20Dhaka%2C%20Bangladesh&descAlignY=88&descSize=14&descColor=FFD4A8" width="100%" />
+
+**⭐ [github.com/sakibzaman255](https://github.com/sakibzaman255)**
+
 </div>
