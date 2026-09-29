@@ -213,7 +213,7 @@ The whole grading pipeline packaged as an Electron application that talks to a *
 |:---|:---|:---:|
 | **ICT Shikhi — chapter 6** | Remaining textbook figures, the last labs, then a board-paper generator per chapter | 🟢 Active |
 | **HajiraPro v2** | Advanced leave workflows, a mobile PWA for punch-in, configurable payslip templates | 🟢 Active |
-| **SmartOMR Desktop v5** | Multi-scanner batching, and a sync path reconciling an offline machine back into the cloud tenant | 🟡 In dev |
+| **SmartOMR Desktop v5** | Multi-scanner batching, and a sync path reconciling an offline machine back into the cloud tenant | 🟢 Active |
 
 </div>
 
